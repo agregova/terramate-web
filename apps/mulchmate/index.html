@@ -4,35 +4,92 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Mulch Mate Online</title>
+<title>Mulch Mate - Free Mulch Calculator</title>
+
+<meta name="description"
+      content="Free mulch calculator for garden beds. Calculate mulch volume, number of bags and total cost.">
+
+<script>
+  const isMobile =
+    /Android|iPhone|iPad|iPod/i.test(navigator.userAgent) ||
+    window.innerWidth < 768;
+
+  if (isMobile) {
+    window.location.replace("/mulchmate/");
+  }
+</script>
 
 <style>
+:root {
+  --primary: #2f5d3a;
+  --background: #fafaf8;
+  --text: #2b2b2b;
+  --muted: #666;
+}
+
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
-  background: #f7f7f5;
   font-family: system-ui, sans-serif;
+  background: var(--background);
+  color: var(--text);
 }
 
 .container {
   max-width: 1400px;
   margin: auto;
-  padding: 40px 20px;
+  padding: 40px 24px;
+}
+
+.hero {
+  text-align: center;
+  margin-bottom: 32px;
 }
 
 h1 {
-  text-align: center;
-  color: #2f5d3a;
+  margin-bottom: 12px;
+  color: var(--primary);
+  font-size: 3rem;
+}
+
+.subtitle {
+  color: var(--muted);
+  font-size: 1.2rem;
+  max-width: 700px;
+  margin: auto;
+}
+
+.buttons {
+  margin-top: 24px;
+}
+
+.button {
+  display: inline-block;
+  padding: 14px 22px;
+  background: var(--primary);
+  color: white;
+  text-decoration: none;
+  border-radius: 12px;
+  font-weight: 600;
+  transition: .2s;
+}
+
+.button:hover {
+  opacity: .9;
 }
 
 .phone {
   width: 420px;
   height: 900px;
-  margin: 40px auto;
+  margin: 48px auto;
   border: 12px solid #222;
-  border-radius: 40px;
+  border-radius: 42px;
   overflow: hidden;
-  box-shadow: 0 20px 50px rgba(0,0,0,.25);
   background: white;
+  box-shadow: 0 20px 50px rgba(0,0,0,.25);
 }
 
 iframe {
@@ -40,18 +97,70 @@ iframe {
   height: 100%;
   border: none;
 }
-</style>
 
+.features {
+  max-width: 900px;
+  margin: 60px auto 0;
+}
+
+.features h2 {
+  color: var(--primary);
+}
+
+ul {
+  line-height: 2;
+}
+
+footer {
+  text-align: center;
+  color: #888;
+  margin: 60px 0 30px;
+}
+</style>
 </head>
+
 <body>
 
 <div class="container">
 
-<h1>🌿 Mulch Mate</h1>
+  <div class="hero">
+    <h1>🌿 Mulch Mate</h1>
 
-<div class="phone">
-  <iframe src="/mulchmate/"></iframe>
-</div>
+    <div class="subtitle">
+      Free mulch calculator for gardeners. Calculate mulch volume,
+      number of bags and total cost. Works on desktop and mobile.
+    </div>
+
+    <div class="buttons">
+      <a class="button" href="/mulchmate/">
+        Open Full Screen
+      </a>
+    </div>
+  </div>
+
+  <div class="phone">
+    <iframe src="/mulchmate/" title="Mulch Mate"></iframe>
+  </div>
+
+  <div class="features">
+    <h2>Features</h2>
+
+    <ul>
+      <li>✓ Multiple garden beds</li>
+      <li>✓ Rectangle, circle and custom area</li>
+      <li>✓ Mulch volume calculation</li>
+      <li>✓ Number of bags needed</li>
+      <li>✓ Cost estimation</li>
+      <li>✓ Metric and US units</li>
+      <li>✓ No ads</li>
+      <li>✓ No account required</li>
+      <li>✓ Works offline</li>
+    </ul>
+  </div>
+
+  <footer>
+    Made with 🌿 by TerraMate
+  </footer>
 
 </div>
 
