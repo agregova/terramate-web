@@ -1,0 +1,7760 @@
+[
+  {
+    "id": "1",
+    "name": "Acer palmatum",
+    "localized": {
+      "sk": "Javor",
+      "cs": "Javor",
+      "en": "Japanese maple",
+      "pl": "Klon palmowy",
+      "de": "Japanischer Ahorn",
+      "es": "Arce japonés",
+      "fr": "Érable du Japon",
+      "pt": "Bordo-japonês",
+      "it": "Acero giapponese",
+      "nl": "Japanse esdoorn",
+      "tr": "Japon akçaağacı"
+    },
+    "imageAsset": "assets/image/acer_palmatum.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 600,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Acer",
+      "Japanese maple"
+    ],
+    "variety": "Bloodgood"
+  },
+  {
+    "id": "2",
+    "name": "Achillea millefolium",
+    "localized": {
+      "sk": "Rebríček",
+      "cs": "Řebříček",
+      "en": "Yarrow",
+      "pl": "Krwawnik pospolity",
+      "de": "Schafgarbe",
+      "es": "Milenrama",
+      "fr": "Achillée millefeuille",
+      "pt": "Mil-folhas",
+      "it": "Achillea",
+      "nl": "Duizendblad",
+      "tr": "Civanperçemi"
+    },
+    "imageAsset": "assets/image/achillea_millefolium.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "yellow"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "heightMaxCm": 80,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Achillea",
+      "Yarrow"
+    ],
+    "variety": "Moonshine"
+  },
+  {
+    "id": "3",
+    "name": "Actinidia deliciosa",
+    "localized": {
+      "sk": "Kiwi",
+      "cs": "Kiwi",
+      "en": "Kiwi",
+      "pl": "Kiwi",
+      "de": "Kiwi",
+      "es": "Kiwi",
+      "fr": "Kiwi",
+      "pt": "Kiwi",
+      "it": "Kiwi",
+      "nl": "Kiwi",
+      "tr": "Kivi"
+    },
+    "imageAsset": "assets/image/actinidia_deliciosa.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 800,
+    "hardinessMinC": -15,
+    "aliases": [
+      "Actinidia",
+      "Chinese gooseberry"
+    ],
+    "variety": "Jenny"
+  },
+  {
+    "id": "4",
+    "name": "Agapanthus africanus",
+    "localized": {
+      "sk": "Kalokvet",
+      "cs": "Kalokvět",
+      "en": "African lily",
+      "pl": "Agapant afrykański",
+      "de": "Schmucklilie",
+      "es": "Agapanto africano",
+      "fr": "Agapanthe",
+      "pt": "Agapanto",
+      "it": "Agapanto",
+      "nl": "Afrikaanse lelie",
+      "tr": "Afrika zambağı"
+    },
+    "imageAsset": "assets/image/agapanthus_africanus.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "blue",
+      "white"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "heightMaxCm": 100,
+    "hardinessMinC": -10,
+    "aliases": [
+      "Agapanthus",
+      "African lily"
+    ],
+    "variety": "Blue Globe"
+  },
+  {
+    "id": "5",
+    "name": "Agastache foeniculum",
+    "localized": {
+      "sk": "Agastache",
+      "cs": "Agastache",
+      "en": "Anise hyssop",
+      "pl": "Kłosowiec anyżowy",
+      "de": "Anis-Duftnessel",
+      "es": "Hisopo de anís",
+      "fr": "Agastache fenouil",
+      "pt": "Agastache anisada",
+      "it": "Agastache",
+      "nl": "Dropplant",
+      "tr": "Anason agastache"
+    },
+    "imageAsset": "assets/image/agastache_foeniculum.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "blue",
+      "purple"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "heightMaxCm": 120,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Agastache",
+      "Anise hyssop"
+    ],
+    "variety": "Blue Fortune"
+  },
+  {
+    "id": "6",
+    "name": "Ajuga reptans",
+    "localized": {
+      "sk": "Zbehovec",
+      "cs": "Zběhovec",
+      "en": "Bugleweed",
+      "pl": "Dąbrówka rozłogowa",
+      "de": "Kriechender Günsel",
+      "es": "Consuelda media",
+      "fr": "Bugle rampante",
+      "pt": "Ajuga",
+      "it": "Bugola",
+      "nl": "Kruipend zenegroen",
+      "tr": "Ajuga"
+    },
+    "imageAsset": "assets/image/ajuga_reptans.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "blue"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 20,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Ajuga",
+      "Bugleweed"
+    ],
+    "variety": "Chocolate Chip"
+  },
+  {
+    "id": "7",
+    "name": "Akebia quinata",
+    "localized": {
+      "sk": "Akébia",
+      "cs": "Akébie",
+      "en": "Chocolate vine",
+      "pl": "Akebia pięciolistkowa",
+      "de": "Fingerblättrige Akebie",
+      "es": "Akebia",
+      "fr": "Akébie à cinq feuilles",
+      "pt": "Akébia",
+      "it": "Akebia",
+      "nl": "Schijnaugurk",
+      "tr": "Beş yapraklı akebya"
+    },
+    "imageAsset": "assets/image/akebia_quinata.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "purple"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 1000,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Akebia",
+      "Chocolate vine"
+    ],
+    "variety": "Alba"
+  },
+  {
+    "id": "8",
+    "name": "Alcea rosea",
+    "localized": {
+      "sk": "Topoľovka",
+      "cs": "Topolovka",
+      "en": "Hollyhock",
+      "pl": "Malwa",
+      "de": "Stockrose",
+      "es": "Malvarrosa",
+      "fr": "Rose trémière",
+      "pt": "Malva-rosa",
+      "it": "Alcea",
+      "nl": "Stokroos",
+      "tr": "Gülhatmi"
+    },
+    "imageAsset": "assets/image/alcea_rosea.webp",
+    "lifecycle": "biennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "heightMaxCm": 250,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Alcea",
+      "Hollyhock"
+    ],
+    "variety": "Chater's Double Pink"
+  },
+  {
+    "id": "9",
+    "name": "Alchemilla mollis",
+    "localized": {
+      "sk": "Alchemilka",
+      "cs": "Kontryhel",
+      "en": "Lady's mantle",
+      "pl": "Przywrotnik miękki",
+      "de": "Frauenmantel",
+      "es": "Pie de león",
+      "fr": "Alchémille mollis",
+      "pt": "Alquemila",
+      "it": "Alchemilla",
+      "nl": "Vrouwenmantel",
+      "tr": "Aslan pençesi"
+    },
+    "imageAsset": "assets/image/alchemilla_mollis.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "yellow"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 50,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Alchemilla",
+      "Lady's mantle"
+    ],
+    "variety": ""
+  },
+  {
+    "id": "10",
+    "name": "Allium giganteum",
+    "localized": {
+      "sk": "Okrasný cesnak",
+      "cs": "Okrasný česnek",
+      "en": "Ornamental onion",
+      "pl": "Czosnek olbrzymi",
+      "de": "Riesenlauch",
+      "es": "Ajo ornamental",
+      "fr": "Ail d'ornement",
+      "pt": "Alho ornamental",
+      "it": "Aglio ornamentale",
+      "nl": "Sierui",
+      "tr": "Süs soğanı"
+    },
+    "imageAsset": "assets/image/allium_giganteum.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "purple"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 150,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Allium",
+      "Ornamental onion"
+    ],
+    "variety": "Globemaster"
+  },
+  {
+    "id": "11",
+    "name": "Amelanchier lamarckii",
+    "localized": {
+      "sk": "Muchovník",
+      "cs": "Muchovník",
+      "en": "Juneberry",
+      "pl": "Świdośliwa Lamarcka",
+      "de": "Kupfer-Felsenbirne",
+      "es": "Guillomo",
+      "fr": "Amélanchier de Lamarck",
+      "pt": "Amelanchier",
+      "it": "Amelanchier",
+      "nl": "Krentenboompje",
+      "tr": "Amelankiyer"
+    },
+    "imageAsset": "assets/image/amelanchier_lamarckii.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 600,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Amelanchier",
+      "Juneberry"
+    ],
+    "variety": "Ballerina"
+  },
+  {
+    "id": "12",
+    "name": "Ampelopsis brevipedunculata",
+    "localized": {
+      "sk": "Viničovec",
+      "cs": "Loubinec",
+      "en": "Porcelain berry",
+      "pl": "Ampelopsis krótkoszypułkowy",
+      "de": "Porzellanbeere",
+      "es": "Ampelopsis",
+      "fr": "Vigne vierge de Chine",
+      "pt": "Ampelopsis",
+      "it": "Ampelopsis",
+      "nl": "Porseleinbes",
+      "tr": "Porselen meyvesi"
+    },
+    "imageAsset": "assets/image/ampelopsis_brevipedunculata.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 1000,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Ampelopsis",
+      "Porcelain berry"
+    ],
+    "variety": "Elegans"
+  },
+  {
+    "id": "13",
+    "name": "Anemone hupehensis",
+    "localized": {
+      "sk": "Veternica",
+      "cs": "Sasanka",
+      "en": "Japanese anemone",
+      "pl": "Zawilec japoński",
+      "de": "Herbst-Anemone",
+      "es": "Anémona japonesa",
+      "fr": "Anémone du Japon",
+      "pt": "Anémona-japonesa",
+      "it": "Anemone giapponese",
+      "nl": "Herfstanemoon",
+      "tr": "Japon anemonu"
+    },
+    "imageAsset": "assets/image/anemone_hupehensis.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "heightMaxCm": 120,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Anemone",
+      "Japanese anemone"
+    ],
+    "variety": "Honorine Jobert"
+  },
+  {
+    "id": "14",
+    "name": "Angelica archangelica",
+    "localized": {
+      "sk": "Angelika",
+      "cs": "Andělika",
+      "en": "Garden angelica",
+      "pl": "Dzięgiel litwor",
+      "de": "Engelwurz",
+      "es": "Angélica",
+      "fr": "Angélique officinale",
+      "pt": "Angélica",
+      "it": "Angelica",
+      "nl": "Grote engelwortel",
+      "tr": "Melek otu"
+    },
+    "imageAsset": "assets/image/angelica_archangelica.webp",
+    "lifecycle": "biennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "high",
+    "flowerColors": [
+      "green"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 200,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Angelica",
+      "Garden angelica"
+    ],
+    "variety": ""
+  },
+  {
+    "id": "15",
+    "name": "Anthriscus cerefolium",
+    "localized": {
+      "sk": "Trebuľka",
+      "cs": "Kerblík",
+      "en": "Chervil",
+      "pl": "Trybula",
+      "de": "Kerbel",
+      "es": "Perifollo",
+      "fr": "Cerfeuil",
+      "pt": "Cerefólio",
+      "it": "Cerfoglio",
+      "nl": "Kervel",
+      "tr": "Frenk maydanozu"
+    },
+    "imageAsset": "assets/image/anthriscus_cerefolium.webp",
+    "lifecycle": "annual",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 60,
+    "hardinessMinC": -10,
+    "aliases": [
+      "Anthriscus",
+      "Chervil"
+    ],
+    "variety": ""
+  },
+  {
+    "id": "16",
+    "name": "Araucaria araucana",
+    "localized": {
+      "sk": "Araukária",
+      "cs": "Blahočet",
+      "en": "Monkey puzzle tree",
+      "pl": "Araukaria chilijska",
+      "de": "Chilenische Araukarie",
+      "es": "Araucaria chilena",
+      "fr": "Désespoir des singes",
+      "pt": "Araucária-do-chile",
+      "it": "Araucaria del Cile",
+      "nl": "Slangenden",
+      "tr": "Şili araukaryası"
+    },
+    "imageAsset": "assets/image/araucaria_araucana.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [],
+    "bloomMonths": [],
+    "heightMaxCm": 3000,
+    "hardinessMinC": -12,
+    "aliases": [
+      "Araucaria",
+      "Monkey puzzle tree"
+    ],
+    "variety": ""
+  },
+  {
+    "id": "17",
+    "name": "Aristolochia macrophylla",
+    "localized": {
+      "sk": "Podražec",
+      "cs": "Podražec",
+      "en": "Dutchman's pipe",
+      "pl": "Kokornak wielkolistny",
+      "de": "Pfeifenwinde",
+      "es": "Aristoloquia",
+      "fr": "Aristoloche siphon",
+      "pt": "Aristoloquia",
+      "it": "Aristolochia",
+      "nl": "Pijpbloem",
+      "tr": "Aristoloşya"
+    },
+    "imageAsset": "assets/image/aristolochia_macrophylla.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "yellow"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 1000,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Aristolochia",
+      "Dutchman's pipe"
+    ],
+    "variety": ""
+  },
+  {
+    "id": "18",
+    "name": "Armeria maritima",
+    "localized": {
+      "sk": "Trávnička",
+      "cs": "Trávnička",
+      "en": "Sea thrift",
+      "pl": "Zawciąg nadmorski",
+      "de": "Grasnelke",
+      "es": "Armeria marítima",
+      "fr": "Gazon d'Espagne",
+      "pt": "Armeria-marítima",
+      "it": "Spillone marittimo",
+      "nl": "Engels gras",
+      "tr": "Sahil karanfili"
+    },
+    "imageAsset": "assets/image/armeria_maritima.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 20,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Armeria",
+      "Sea thrift"
+    ],
+    "variety": "Splendens"
+  },
+  {
+    "id": "19",
+    "name": "Aronia melanocarpa",
+    "localized": {
+      "sk": "Arónia",
+      "cs": "Temnoplodec",
+      "en": "Black chokeberry",
+      "pl": "Aronia czarnoowocowa",
+      "de": "Schwarze Apfelbeere",
+      "es": "Aronia negra",
+      "fr": "Aronie noire",
+      "pt": "Arónia-negra",
+      "it": "Aronia nera",
+      "nl": "Zwarte appelbes",
+      "tr": "Siyah aronia"
+    },
+    "imageAsset": "assets/image/aronia_melanocarpa.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      5
+    ],
+    "heightMaxCm": 250,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Aronia",
+      "Black chokeberry"
+    ],
+    "variety": "Viking"
+  },
+  {
+    "id": "20",
+    "name": "Artemisia ludoviciana",
+    "localized": {
+      "sk": "Palina",
+      "cs": "Pelyněk",
+      "en": "White sagebrush",
+      "pl": "Bylica Ludovika",
+      "de": "Silber-Beifuß",
+      "es": "Artemisa",
+      "fr": "Armoise de Louisiane",
+      "pt": "Artemísia",
+      "it": "Artemisia",
+      "nl": "Alsem",
+      "tr": "Beyaz adaçayı"
+    },
+    "imageAsset": "assets/image/artemisia_ludoviciana.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "heightMaxCm": 100,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Artemisia",
+      "White sagebrush"
+    ],
+    "variety": "Silver Queen"
+  },
+  {
+    "id": "21",
+    "name": "Asimina triloba",
+    "localized": {
+      "sk": "Asimina",
+      "cs": "Muďoul trojlaločný",
+      "en": "Pawpaw",
+      "pl": "Asymina trójklapowa",
+      "de": "Indianerbanane",
+      "es": "Asimina",
+      "fr": "Asiminier trilobé",
+      "pt": "Asimina",
+      "it": "Asimina",
+      "nl": "Pawpaw",
+      "tr": "Pavpav"
+    },
+    "imageAsset": "assets/image/asimina_triloba.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "purple"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 600,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Asimina",
+      "Pawpaw"
+    ],
+    "variety": "Sunflower"
+  },
+  {
+    "id": "22",
+    "name": "Asplenium scolopendrium",
+    "localized": {
+      "sk": "Slezinník",
+      "cs": "Jelení jazyk",
+      "en": "Hart's tongue fern",
+      "pl": "Języcznik zwyczajny",
+      "de": "Hirschzungenfarn",
+      "es": "Lengua de ciervo",
+      "fr": "Scolopendre",
+      "pt": "Língua-de-veado",
+      "it": "Lingua cervina",
+      "nl": "Tongvaren",
+      "tr": "Geyik dili eğreltisi"
+    },
+    "imageAsset": "assets/image/asplenium_scolopendrium.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "high",
+    "flowerColors": [],
+    "bloomMonths": [],
+    "heightMaxCm": 60,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Asplenium",
+      "Hart's tongue fern"
+    ],
+    "variety": "Cristatum"
+  },
+  {
+    "id": "23",
+    "name": "Aster amellus",
+    "localized": {
+      "sk": "Astra",
+      "cs": "Hvězdnice",
+      "en": "Italian aster",
+      "pl": "Aster gawędka",
+      "de": "Berg-Aster",
+      "es": "Áster italiano",
+      "fr": "Aster d'Italie",
+      "pt": "Áster italiano",
+      "it": "Astro italiano",
+      "nl": "Bergaster",
+      "tr": "İtalyan asteri"
+    },
+    "imageAsset": "assets/image/aster_amellus.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "purple"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "heightMaxCm": 60,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Aster",
+      "Italian aster"
+    ],
+    "variety": "Purple Dome"
+  },
+  {
+    "id": "24",
+    "name": "Astilbe chinensis",
+    "localized": {
+      "sk": "Astilba",
+      "cs": "Čechrava",
+      "en": "Chinese astilbe",
+      "pl": "Tawułka chińska",
+      "de": "Prachtspiere",
+      "es": "Astilbe china",
+      "fr": "Astilbe de Chine",
+      "pt": "Astilbe chinesa",
+      "it": "Astilbe cinese",
+      "nl": "Pluimspirea",
+      "tr": "Çin astilbesi"
+    },
+    "imageAsset": "assets/image/astilbe_chinensis.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "high",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "heightMaxCm": 80,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Astilbe",
+      "Chinese astilbe"
+    ],
+    "variety": "Vision in Pink"
+  },
+  {
+    "id": "25",
+    "name": "Astrantia major",
+    "localized": {
+      "sk": "Jarmanka",
+      "cs": "Jarmanka",
+      "en": "Great masterwort",
+      "pl": "Jarzmianka większa",
+      "de": "Sterndolde",
+      "es": "Astrancia mayor",
+      "fr": "Grande astrance",
+      "pt": "Astrância-maior",
+      "it": "Astranzia maggiore",
+      "nl": "Zeeuws knoopje",
+      "tr": "Büyük astrantia"
+    },
+    "imageAsset": "assets/image/astrantia_major.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "heightMaxCm": 70,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Astrantia",
+      "Great masterwort"
+    ],
+    "variety": "Roma"
+  },
+  {
+    "id": "26",
+    "name": "Athyrium niponicum",
+    "localized": {
+      "sk": "Papraďka",
+      "cs": "Papratka",
+      "en": "Japanese painted fern",
+      "pl": "Wietlica japońska",
+      "de": "Japanischer Regenbogenfarn",
+      "es": "Helecho japonés",
+      "fr": "Fougère japonaise",
+      "pt": "Feto japonês",
+      "it": "Felce giapponese",
+      "nl": "Japanse regenboogvaren",
+      "tr": "Japon boyalı eğreltisi"
+    },
+    "imageAsset": "assets/image/athyrium_niponicum.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "high",
+    "flowerColors": [],
+    "bloomMonths": [],
+    "heightMaxCm": 50,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Athyrium",
+      "Japanese painted fern"
+    ],
+    "variety": "Pictum"
+  },
+  {
+    "id": "27",
+    "name": "Baptisia australis",
+    "localized": {
+      "sk": "Baptízia",
+      "cs": "Baptisie",
+      "en": "Blue false indigo",
+      "pl": "Baptyzja południowa",
+      "de": "Färberhülse",
+      "es": "Baptisia azul",
+      "fr": "Baptisia australe",
+      "pt": "Baptísia azul",
+      "it": "Baptisia blu",
+      "nl": "Valse indigo",
+      "tr": "Mavi yalancı çivit"
+    },
+    "imageAsset": "assets/image/baptisia_australis.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "blue"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 120,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Baptisia",
+      "Blue false indigo"
+    ],
+    "variety": "Purple Smoke"
+  },
+  {
+    "id": "28",
+    "name": "Bergenia cordifolia",
+    "localized": {
+      "sk": "Bergénia",
+      "cs": "Bergénie",
+      "en": "Heartleaf bergenia",
+      "pl": "Bergenia sercowata",
+      "de": "Bergenie",
+      "es": "Bergenia",
+      "fr": "Bergénia",
+      "pt": "Bergénia",
+      "it": "Bergenia",
+      "nl": "Schoenlappersplant",
+      "tr": "Kalp yapraklı bergenya"
+    },
+    "imageAsset": "assets/image/bergenia_cordifolia.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 40,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Bergenia",
+      "Heartleaf bergenia"
+    ],
+    "variety": "Winterglut"
+  },
+  {
+    "id": "29",
+    "name": "Brunnera macrophylla",
+    "localized": {
+      "sk": "Brunera",
+      "cs": "Pomněnkovec",
+      "en": "Siberian bugloss",
+      "pl": "Brunera wielkolistna",
+      "de": "Kaukasus-Vergissmeinnicht",
+      "es": "Brunnera",
+      "fr": "Brunnéra",
+      "pt": "Brunnera",
+      "it": "Brunnera",
+      "nl": "Kaukasisch vergeet-mij-nietje",
+      "tr": "Brunnera"
+    },
+    "imageAsset": "assets/image/brunnera_macrophylla.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "blue"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 50,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Brunnera",
+      "Siberian bugloss"
+    ],
+    "variety": "Jack Frost"
+  },
+  {
+    "id": "30",
+    "name": "Buddleja davidii",
+    "localized": {
+      "sk": "Budleja",
+      "cs": "Komule",
+      "en": "Butterfly bush",
+      "pl": "Budleja Dawida",
+      "de": "Sommerflieder",
+      "es": "Arbusto de las mariposas",
+      "fr": "Arbre aux papillons",
+      "pt": "Budleia",
+      "it": "Buddleja",
+      "nl": "Vlinderstruik",
+      "tr": "Kelebek çalısı"
+    },
+    "imageAsset": "assets/image/buddleja_davidii.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "purple"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "heightMaxCm": 300,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Buddleja",
+      "Butterfly bush"
+    ],
+    "variety": "Black Knight"
+  },
+  {
+    "id": "31",
+    "name": "Buxus sempervirens",
+    "localized": {
+      "sk": "Krušpán",
+      "cs": "Zimostráz",
+      "en": "Boxwood",
+      "pl": "Bukszpan wieczniezielony",
+      "de": "Buchsbaum",
+      "es": "Boj",
+      "fr": "Buis",
+      "pt": "Buxo",
+      "it": "Bosso",
+      "nl": "Buxus",
+      "tr": "Şimşir"
+    },
+    "imageAsset": "assets/image/buxus_sempervirens.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 300,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Buxus",
+      "Boxwood"
+    ],
+    "variety": "Faulkner"
+  },
+  {
+    "id": "32",
+    "name": "Calamagrostis × acutiflora",
+    "localized": {
+      "sk": "Smlz",
+      "cs": "Třtina",
+      "en": "Feather reed grass",
+      "pl": "Trzcinnik ostrokwiatowy",
+      "de": "Reitgras",
+      "es": "Calamagrostis",
+      "fr": "Calamagrostide",
+      "pt": "Calamagrostis",
+      "it": "Calamagrostide",
+      "nl": "Struisriet",
+      "tr": "Tüy kamış otu"
+    },
+    "imageAsset": "assets/image/calamagrostis_acutiflora.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "heightMaxCm": 180,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Calamagrostis",
+      "Feather reed grass"
+    ],
+    "variety": "Karl Foerster"
+  },
+  {
+    "id": "33",
+    "name": "Caltha palustris",
+    "localized": {
+      "sk": "Záružlie",
+      "cs": "Blatouch",
+      "en": "Marsh marigold",
+      "pl": "Knieć błotna",
+      "de": "Sumpfdotterblume",
+      "es": "Calta palustre",
+      "fr": "Populage des marais",
+      "pt": "Calta-dos-pântanos",
+      "it": "Calta palustre",
+      "nl": "Dotterbloem",
+      "tr": "Bataklık nergisi"
+    },
+    "imageAsset": "assets/image/caltha_palustris.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "high",
+    "flowerColors": [
+      "yellow"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 50,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Caltha",
+      "Marsh marigold"
+    ],
+    "variety": "Multiplex"
+  },
+  {
+    "id": "34",
+    "name": "Calystegia hederacea",
+    "localized": {
+      "sk": "Povojník",
+      "cs": "Povijnice",
+      "en": "Japanese bindweed",
+      "pl": "Kielisznik bluszczolistny",
+      "de": "Zaunwinde",
+      "es": "Correhuela japonesa",
+      "fr": "Liseron du Japon",
+      "pt": "Corriola japonesa",
+      "it": "Vilucchio giapponese",
+      "nl": "Japanse winde",
+      "tr": "Japon sarmaşığı"
+    },
+    "imageAsset": "assets/image/calystegia_hederacea.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "heightMaxCm": 300,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Calystegia",
+      "Japanese bindweed"
+    ],
+    "variety": "Flore Pleno"
+  },
+  {
+    "id": "35",
+    "name": "Campanula carpatica",
+    "localized": {
+      "sk": "Zvonček",
+      "cs": "Zvonek",
+      "en": "Carpathian bellflower",
+      "pl": "Dzwonek karpacki",
+      "de": "Karpaten-Glockenblume",
+      "es": "Campánula de los Cárpatos",
+      "fr": "Campanule des Carpates",
+      "pt": "Campânula dos Cárpatos",
+      "it": "Campanula dei Carpazi",
+      "nl": "Karpatenklokje",
+      "tr": "Karpat çan çiçeği"
+    },
+    "imageAsset": "assets/image/campanula_carpatica.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "blue"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "heightMaxCm": 30,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Campanula",
+      "Bellflower"
+    ],
+    "variety": "Blue Clips"
+  },
+  {
+    "id": "36",
+    "name": "Campsis radicans",
+    "localized": {
+      "sk": "Trúbkovec",
+      "cs": "Trubač",
+      "en": "Trumpet vine",
+      "pl": "Milin amerykański",
+      "de": "Trompetenblume",
+      "es": "Bignonia",
+      "fr": "Bignone",
+      "pt": "Bignónia",
+      "it": "Bignonia",
+      "nl": "Trompetbloem",
+      "tr": "Trompet sarmaşığı"
+    },
+    "imageAsset": "assets/image/campsis_radicans.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "orange"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "heightMaxCm": 1000,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Campsis",
+      "Trumpet vine"
+    ],
+    "variety": "Flamenco"
+  },
+  {
+    "id": "37",
+    "name": "Canna indica",
+    "localized": {
+      "sk": "Kana",
+      "cs": "Dosna",
+      "en": "Canna lily",
+      "pl": "Paciorecznik indyjski",
+      "de": "Blumenrohr",
+      "es": "Caña de Indias",
+      "fr": "Balisier",
+      "pt": "Cana-da-índia",
+      "it": "Canna indica",
+      "nl": "Bloemriet",
+      "tr": "Kana çiçeği"
+    },
+    "imageAsset": "assets/image/canna_indica.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "high",
+    "flowerColors": [
+      "orange"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "heightMaxCm": 150,
+    "hardinessMinC": -5,
+    "aliases": [
+      "Canna",
+      "Canna lily"
+    ],
+    "variety": "Pretoria"
+  },
+  {
+    "id": "38",
+    "name": "Carex morrowii",
+    "localized": {
+      "sk": "Ostrica",
+      "cs": "Ostřice",
+      "en": "Sedge",
+      "pl": "Turzyca",
+      "de": "Segge",
+      "es": "Carex",
+      "fr": "Laîche",
+      "pt": "Carex",
+      "it": "Carice",
+      "nl": "Zegge",
+      "tr": "Japon saz otu"
+    },
+    "imageAsset": "assets/image/carex_morrowii.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [],
+    "bloomMonths": [],
+    "heightMaxCm": 40,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Carex",
+      "Sedge"
+    ],
+    "variety": "Ice Dance"
+  },
+  {
+    "id": "39",
+    "name": "Carpinus betulus",
+    "localized": {
+      "sk": "Hrab",
+      "cs": "Habr",
+      "en": "Hornbeam",
+      "pl": "Grab pospolity",
+      "de": "Hainbuche",
+      "es": "Carpe",
+      "fr": "Charme commun",
+      "pt": "Carpa-europeia",
+      "it": "Carpino bianco",
+      "nl": "Haagbeuk",
+      "tr": "Gürgen"
+    },
+    "imageAsset": "assets/image/carpinus_betulus.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 1500,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Carpinus",
+      "Hornbeam"
+    ],
+    "variety": "Fastigiata"
+  },
+  {
+    "id": "40",
+    "name": "Caryopteris × clandonensis",
+    "localized": {
+      "sk": "Bradavec",
+      "cs": "Ořechoplodec",
+      "en": "Bluebeard",
+      "pl": "Barbula klandońska",
+      "de": "Bartblume",
+      "es": "Caryopteris",
+      "fr": "Barbe bleue",
+      "pt": "Caryopteris",
+      "it": "Caryopteris",
+      "nl": "Blauwbaard",
+      "tr": "Mavi sakal çalısı"
+    },
+    "imageAsset": "assets/image/caryopteris_clandonensis.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "blue"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "heightMaxCm": 100,
+    "hardinessMinC": -20,
+    "aliases": [
+      "Caryopteris",
+      "Bluebeard"
+    ],
+    "variety": "Heavenly Blue"
+  },
+  {
+    "id": "41",
+    "name": "Catalpa bignonioides",
+    "localized": {
+      "sk": "Katalpa",
+      "cs": "Katalpa",
+      "en": "Southern catalpa",
+      "pl": "Surmia zwyczajna",
+      "de": "Trompetenbaum",
+      "es": "Catalpa",
+      "fr": "Catalpa commun",
+      "pt": "Catalpa",
+      "it": "Catalpa",
+      "nl": "Trompetboom",
+      "tr": "Katalpa"
+    },
+    "imageAsset": "assets/image/catalpa_bignonioides.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      6
+    ],
+    "heightMaxCm": 1000,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Catalpa",
+      "Southern catalpa"
+    ],
+    "variety": "Nana"
+  },
+  {
+    "id": "42",
+    "name": "Catananche caerulea",
+    "localized": {
+      "sk": "Katananka",
+      "cs": "Katananche",
+      "en": "Cupid's dart",
+      "pl": "Katananche błękitna",
+      "de": "Rasselblume",
+      "es": "Hierba cupido",
+      "fr": "Cupidone bleue",
+      "pt": "Catananche",
+      "it": "Catananche",
+      "nl": "Blauwe strobloem",
+      "tr": "Kupidon oku"
+    },
+    "imageAsset": "assets/image/catananche_caerulea.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "blue"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "heightMaxCm": 70,
+    "hardinessMinC": -20,
+    "aliases": [
+      "Catananche",
+      "Cupid's dart"
+    ],
+    "variety": "Alba"
+  },
+  {
+    "id": "43",
+    "name": "Ceanothus thyrsiflorus",
+    "localized": {
+      "sk": "Ceanot",
+      "cs": "Latnatec",
+      "en": "California lilac",
+      "pl": "Prusznik",
+      "de": "Säckelblume",
+      "es": "Lila de California",
+      "fr": "Lilas de Californie",
+      "pt": "Lilás-da-Califórnia",
+      "it": "Lillà della California",
+      "nl": "Amerikaanse sering",
+      "tr": "Kaliforniya leylağı"
+    },
+    "imageAsset": "assets/image/ceanothus_thyrsiflorus.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "blue"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 300,
+    "hardinessMinC": -15,
+    "aliases": [
+      "Ceanothus",
+      "California lilac"
+    ],
+    "variety": "Skylark"
+  },
+  {
+    "id": "44",
+    "name": "Centaurea montana",
+    "localized": {
+      "sk": "Nevädza",
+      "cs": "Chrpa",
+      "en": "Perennial cornflower",
+      "pl": "Chaber górski",
+      "de": "Berg-Flockenblume",
+      "es": "Aciano de montaña",
+      "fr": "Centaurée des montagnes",
+      "pt": "Centáurea-das-montanhas",
+      "it": "Fiordaliso montano",
+      "nl": "Bergkorenbloem",
+      "tr": "Dağ peygamber çiçeği"
+    },
+    "imageAsset": "assets/image/centaurea_montana.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "blue"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 60,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Centaurea",
+      "Perennial cornflower"
+    ],
+    "variety": "Amethyst Dream"
+  },
+  {
+    "id": "45",
+    "name": "Centranthus ruber",
+    "localized": {
+      "sk": "Centrant",
+      "cs": "Mavuň",
+      "en": "Red valerian",
+      "pl": "Ostrożeń czerwony",
+      "de": "Spornblume",
+      "es": "Valeriana roja",
+      "fr": "Valériane rouge",
+      "pt": "Valeriana-vermelha",
+      "it": "Valeriana rossa",
+      "nl": "Spoorbloem",
+      "tr": "Kırmızı kediotu"
+    },
+    "imageAsset": "assets/image/centranthus_ruber.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "red"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "heightMaxCm": 80,
+    "hardinessMinC": -20,
+    "aliases": [
+      "Centranthus",
+      "Red valerian"
+    ],
+    "variety": "Coccineus"
+  },
+  {
+    "id": "46",
+    "name": "Cercis canadensis",
+    "localized": {
+      "sk": "Judášovec",
+      "cs": "Zmarlika",
+      "en": "Eastern redbud",
+      "pl": "Grujecznik kanadyjski",
+      "de": "Kanadischer Judasbaum",
+      "es": "Árbol del amor",
+      "fr": "Gainier du Canada",
+      "pt": "Árvore-do-amor",
+      "it": "Albero di Giuda",
+      "nl": "Judasboom",
+      "tr": "Kanada erguvanı"
+    },
+    "imageAsset": "assets/image/cercis_canadensis.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 600,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Cercis",
+      "Eastern redbud"
+    ],
+    "variety": "Forest Pansy"
+  },
+  {
+    "id": "47",
+    "name": "Chaenomeles japonica",
+    "localized": {
+      "sk": "Dulovec",
+      "cs": "Kdoulovec",
+      "en": "Japanese quince",
+      "pl": "Pigwowiec japoński",
+      "de": "Japanische Zierquitte",
+      "es": "Membrillero japonés",
+      "fr": "Cognassier du Japon",
+      "pt": "Marmeleiro-do-Japão",
+      "it": "Cotogno giapponese",
+      "nl": "Japanse kwee",
+      "tr": "Japon ayvası"
+    },
+    "imageAsset": "assets/image/chaenomeles_japonica.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "red"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "heightMaxCm": 150,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Chaenomeles",
+      "Japanese quince"
+    ],
+    "variety": "Crimson and Gold"
+  },
+  {
+    "id": "48",
+    "name": "Clematis viticella",
+    "localized": {
+      "sk": "Plamienok",
+      "cs": "Plamének",
+      "en": "Clematis",
+      "pl": "Powojnik",
+      "de": "Waldrebe",
+      "es": "Clemátide",
+      "fr": "Clématite",
+      "pt": "Clematite",
+      "it": "Clematide",
+      "nl": "Bosrank",
+      "tr": "Akasma"
+    },
+    "imageAsset": "assets/image/clematis_viticella.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "purple"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "heightMaxCm": 400,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Clematis",
+      "Clematis"
+    ],
+    "variety": "Polish Spirit"
+  },
+  {
+    "id": "49",
+    "name": "Convallaria majalis",
+    "localized": {
+      "sk": "Konvalinka",
+      "cs": "Konvalinka",
+      "en": "Lily of the valley",
+      "pl": "Konwalia majowa",
+      "de": "Maiglöckchen",
+      "es": "Lirio de los valles",
+      "fr": "Muguet",
+      "pt": "Lírio-do-vale",
+      "it": "Mughetto",
+      "nl": "Lelietje-van-dalen",
+      "tr": "İnci çiçeği"
+    },
+    "imageAsset": "assets/image/convallaria_majalis.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      5
+    ],
+    "heightMaxCm": 25,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Convallaria",
+      "Lily of the valley"
+    ],
+    "variety": "Rosea"
+  },
+  {
+    "id": "50",
+    "name": "Coreopsis verticillata",
+    "localized": {
+      "sk": "Krásnoočko",
+      "cs": "Krásnoočko",
+      "en": "Threadleaf coreopsis",
+      "pl": "Nachyłek okółkowy",
+      "de": "Mädchenauge",
+      "es": "Coreopsis",
+      "fr": "Coréopsis",
+      "pt": "Coreópsis",
+      "it": "Coreopsis",
+      "nl": "Meisjesogen",
+      "tr": "İplik yapraklı koreopsis"
+    },
+    "imageAsset": "assets/image/coreopsis_verticillata.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "yellow"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "heightMaxCm": 60,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Coreopsis",
+      "Threadleaf coreopsis"
+    ],
+    "variety": "Moonbeam"
+  },
+  {
+    "id": "51",
+    "name": "Cornus kousa",
+    "localized": {
+      "sk": "Drieň",
+      "cs": "Dřín",
+      "en": "Kousa dogwood",
+      "pl": "Dereń kousa",
+      "de": "Japanischer Blumenhartriegel",
+      "es": "Cornejo japonés",
+      "fr": "Cornouiller du Japon",
+      "pt": "Corniso-japonês",
+      "it": "Corniolo giapponese",
+      "nl": "Japanse kornoelje",
+      "tr": "Japon kızılcığı"
+    },
+    "imageAsset": "assets/image/cornus_kousa.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 600,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Cornus",
+      "Kousa dogwood"
+    ],
+    "variety": "Satomi"
+  },
+  {
+    "id": "52",
+    "name": "Cotinus coggygria",
+    "localized": {
+      "sk": "Škumpa",
+      "cs": "Ruj vlasatá",
+      "en": "Smoke bush",
+      "pl": "Perukowiec podolski",
+      "de": "Perückenstrauch",
+      "es": "Árbol de las pelucas",
+      "fr": "Arbre à perruques",
+      "pt": "Árvore-da-fumaça",
+      "it": "Albero della nebbia",
+      "nl": "Pruikenboom",
+      "tr": "Duman ağacı"
+    },
+    "imageAsset": "assets/image/cotinus_coggygria.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 500,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Cotinus",
+      "Smoke bush"
+    ],
+    "variety": "Royal Purple"
+  },
+  {
+    "id": "53",
+    "name": "Crataegus monogyna",
+    "localized": {
+      "sk": "Hloh",
+      "cs": "Hloh",
+      "en": "Common hawthorn",
+      "pl": "Głóg jednoszyjkowy",
+      "de": "Weißdorn",
+      "es": "Espino albar",
+      "fr": "Aubépine",
+      "pt": "Espinheiro-alvar",
+      "it": "Biancospino",
+      "nl": "Meidoorn",
+      "tr": "Alıç"
+    },
+    "imageAsset": "assets/image/crataegus_monogyna.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      5
+    ],
+    "heightMaxCm": 700,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Crataegus",
+      "Common hawthorn"
+    ],
+    "variety": "Paul's Scarlet"
+  },
+  {
+    "id": "54",
+    "name": "Crocosmia × crocosmiiflora",
+    "localized": {
+      "sk": "Montbrécia",
+      "cs": "Montbrécie",
+      "en": "Montbretia",
+      "pl": "Krokosmia",
+      "de": "Montbretie",
+      "es": "Crocosmia",
+      "fr": "Montbrétia",
+      "pt": "Crocosmia",
+      "it": "Crocosmia",
+      "nl": "Montbretia",
+      "tr": "Krokosmya"
+    },
+    "imageAsset": "assets/image/crocosmia_crocosmiiflora.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "red"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "heightMaxCm": 100,
+    "hardinessMinC": -20,
+    "aliases": [
+      "Crocosmia",
+      "Montbretia"
+    ],
+    "variety": "Lucifer"
+  },
+  {
+    "id": "55",
+    "name": "Crocus vernus",
+    "localized": {
+      "sk": "Šafran",
+      "cs": "Krokus",
+      "en": "Spring crocus",
+      "pl": "Krokus wiosenny",
+      "de": "Frühlings-Krokus",
+      "es": "Azafrán de primavera",
+      "fr": "Crocus de printemps",
+      "pt": "Açafrão-da-primavera",
+      "it": "Croco primaverile",
+      "nl": "Voorjaarskrokus",
+      "tr": "Bahar çiğdemi"
+    },
+    "imageAsset": "assets/image/crocus_vernus.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "heightMaxCm": 15,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Crocus",
+      "Spring crocus"
+    ],
+    "variety": "Jeanne d'Arc"
+  },
+  {
+    "id": "56",
+    "name": "Dahlia pinnata",
+    "localized": {
+      "sk": "Georgína",
+      "cs": "Jiřina",
+      "en": "Dahlia",
+      "pl": "Dalia",
+      "de": "Dahlie",
+      "es": "Dalia",
+      "fr": "Dahlia",
+      "pt": "Dália",
+      "it": "Dalia",
+      "nl": "Dahlia",
+      "tr": "Yıldız çiçeği"
+    },
+    "imageAsset": "assets/image/dahlia_pinnata.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "red"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "heightMaxCm": 120,
+    "hardinessMinC": -5,
+    "aliases": [
+      "Dahlia",
+      "Dahlia"
+    ],
+    "variety": "Bishop of Llandaff"
+  },
+  {
+    "id": "57",
+    "name": "Delphinium elatum",
+    "localized": {
+      "sk": "Stračonôžka",
+      "cs": "Ostrožka",
+      "en": "Delphinium",
+      "pl": "Ostróżka wyniosła",
+      "de": "Rittersporn",
+      "es": "Espuela de caballero",
+      "fr": "Pied-d'alouette",
+      "pt": "Delfínio",
+      "it": "Delphinium",
+      "nl": "Ridderspoor",
+      "tr": "Hezaren"
+    },
+    "imageAsset": "assets/image/delphinium_elatum.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "blue"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 180,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Delphinium",
+      "Larkspur"
+    ],
+    "variety": "Magic Fountain Blue"
+  },
+  {
+    "id": "58",
+    "name": "Deschampsia cespitosa",
+    "localized": {
+      "sk": "Metlica",
+      "cs": "Metlice",
+      "en": "Tufted hair grass",
+      "pl": "Śmiałek darniowy",
+      "de": "Schmiele",
+      "es": "Deschampsia",
+      "fr": "Canche cespiteuse",
+      "pt": "Deschampsia",
+      "it": "Deschampsia",
+      "nl": "Smele",
+      "tr": "Demetli saç otu"
+    },
+    "imageAsset": "assets/image/deschampsia_cespitosa.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "heightMaxCm": 120,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Deschampsia",
+      "Tufted hair grass"
+    ],
+    "variety": "Goldtau"
+  },
+  {
+    "id": "59",
+    "name": "Deutzia gracilis",
+    "localized": {
+      "sk": "Trojpuk",
+      "cs": "Trojpuk",
+      "en": "Slender deutzia",
+      "pl": "Żylistek wysmukły",
+      "de": "Deutzie",
+      "es": "Deucia",
+      "fr": "Deutzia gracile",
+      "pt": "Deutzia",
+      "it": "Deutzia",
+      "nl": "Bruidsbloem",
+      "tr": "Zarif döytsia"
+    },
+    "imageAsset": "assets/image/deutzia_gracilis.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 150,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Deutzia",
+      "Slender deutzia"
+    ],
+    "variety": "Nikko"
+  },
+  {
+    "id": "60",
+    "name": "Dianthus deltoides",
+    "localized": {
+      "sk": "Klinček",
+      "cs": "Hvozdík",
+      "en": "Maiden pink",
+      "pl": "Goździk kropkowany",
+      "de": "Heidenelke",
+      "es": "Clavel silvestre",
+      "fr": "Œillet deltoïde",
+      "pt": "Cravina",
+      "it": "Garofano selvatico",
+      "nl": "Steenanjer",
+      "tr": "Kır karanfili"
+    },
+    "imageAsset": "assets/image/dianthus_deltoides.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "heightMaxCm": 25,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Dianthus",
+      "Maiden pink"
+    ],
+    "variety": "Firewitch"
+  },
+  {
+    "id": "61",
+    "name": "Lamprocapnos spectabilis",
+    "localized": {
+      "sk": "Srdcovka",
+      "cs": "Srdcovka",
+      "en": "Bleeding heart",
+      "pl": "Serduszka okazała",
+      "de": "Tränendes Herz",
+      "es": "Corazón sangrante",
+      "fr": "Cœur-de-Marie",
+      "pt": "Coração-sangrento",
+      "it": "Cuore di Maria",
+      "nl": "Gebroken hartje",
+      "tr": "Kanayan kalp"
+    },
+    "imageAsset": "assets/image/lamprocapnos_spectabilis.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 90,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Dicentra",
+      "Bleeding heart"
+    ],
+    "variety": "Alba"
+  },
+  {
+    "id": "62",
+    "name": "Digitalis purpurea",
+    "localized": {
+      "sk": "Náprstník",
+      "cs": "Náprstník",
+      "en": "Foxglove",
+      "pl": "Naparstnica purpurowa",
+      "de": "Fingerhut",
+      "es": "Dedalera",
+      "fr": "Digitale pourpre",
+      "pt": "Dedaleira",
+      "it": "Digitale purpurea",
+      "nl": "Vingerhoedskruid",
+      "tr": "Yüksük otu"
+    },
+    "imageAsset": "assets/image/digitalis_purpurea.webp",
+    "lifecycle": "biennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 150,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Digitalis",
+      "Foxglove"
+    ],
+    "variety": "Camelot Rose"
+  },
+  {
+    "id": "63",
+    "name": "Dodecatheon meadia",
+    "localized": {
+      "sk": "Boží kvet",
+      "cs": "Boží květ",
+      "en": "Shooting star",
+      "pl": "Dodekateon",
+      "de": "Götterblume",
+      "es": "Estrella fugaz",
+      "fr": "Gyroselle de Virginie",
+      "pt": "Estrela-cadente",
+      "it": "Dodecatheon",
+      "nl": "Amerikaanse sleutelbloem",
+      "tr": "Kayan yıldız çiçeği"
+    },
+    "imageAsset": "assets/image/dodecatheon_meadia.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 40,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Dodecatheon",
+      "Shooting star"
+    ],
+    "variety": "Red Wings"
+  },
+  {
+    "id": "64",
+    "name": "Echinacea purpurea",
+    "localized": {
+      "sk": "Echinacea",
+      "cs": "Třapatka nachová",
+      "en": "Purple coneflower",
+      "pl": "Jeżówka purpurowa",
+      "de": "Purpursonnenhut",
+      "es": "Equinácea púrpura",
+      "fr": "Échinacée pourpre",
+      "pt": "Equinácea-roxa",
+      "it": "Echinacea purpurea",
+      "nl": "Zonnehoed",
+      "tr": "Mor ekinezya"
+    },
+    "imageAsset": "assets/image/echinacea_purpurea.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "heightMaxCm": 100,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Echinacea",
+      "Purple coneflower"
+    ],
+    "variety": "Magnus"
+  },
+  {
+    "id": "65",
+    "name": "Echinops ritro",
+    "localized": {
+      "sk": "Ježibaba",
+      "cs": "Bělotrn",
+      "en": "Globe thistle",
+      "pl": "Przegorzan pospolity",
+      "de": "Kugeldistel",
+      "es": "Cardo azul",
+      "fr": "Chardon boule",
+      "pt": "Cardo-globo",
+      "it": "Cardo pallottola",
+      "nl": "Kogeldistel",
+      "tr": "Topuz dikeni"
+    },
+    "imageAsset": "assets/image/echinops_ritro.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "blue"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "heightMaxCm": 120,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Echinops",
+      "Globe thistle"
+    ],
+    "variety": "Veitch's Blue"
+  },
+  {
+    "id": "66",
+    "name": "Elaeagnus ebbingei",
+    "localized": {
+      "sk": "Hlošina",
+      "cs": "Hlošina",
+      "en": "Oleaster",
+      "pl": "Oliwnik Ebbinga",
+      "de": "Ölweide",
+      "es": "Eleagno",
+      "fr": "Chalef",
+      "pt": "Elaeagno",
+      "it": "Eleagno",
+      "nl": "Olijfwilg",
+      "tr": "İğde"
+    },
+    "imageAsset": "assets/image/elaeagnus_ebbingei.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      10
+    ],
+    "heightMaxCm": 400,
+    "hardinessMinC": -20,
+    "aliases": [
+      "Elaeagnus",
+      "Oleaster"
+    ],
+    "variety": "Gilt Edge"
+  },
+  {
+    "id": "67",
+    "name": "Epimedium grandiflorum",
+    "localized": {
+      "sk": "Krpčiarka",
+      "cs": "Škornice",
+      "en": "Barrenwort",
+      "pl": "Epimedium wielkokwiatowe",
+      "de": "Elfenblume",
+      "es": "Epimedio",
+      "fr": "Fleur des elfes",
+      "pt": "Epimédio",
+      "it": "Epimedio",
+      "nl": "Elfenbloem",
+      "tr": "Epimedyum"
+    },
+    "imageAsset": "assets/image/epimedium_grandiflorum.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "purple"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 40,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Epimedium",
+      "Barrenwort"
+    ],
+    "variety": "Lilafee"
+  },
+  {
+    "id": "68",
+    "name": "Erigeron karvinskianus",
+    "localized": {
+      "sk": "Turica",
+      "cs": "Turan",
+      "en": "Mexican fleabane",
+      "pl": "Przymiotno karwińskiego",
+      "de": "Spanisches Gänseblümchen",
+      "es": "Margarita mexicana",
+      "fr": "Vergerette de Karvinski",
+      "pt": "Margarida-mexicana",
+      "it": "Erigeron",
+      "nl": "Mexicaans madeliefje",
+      "tr": "Meksika papatyası"
+    },
+    "imageAsset": "assets/image/erigeron_karvinskianus.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "white",
+      "pink"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "heightMaxCm": 30,
+    "hardinessMinC": -15,
+    "aliases": [
+      "Erigeron",
+      "Mexican fleabane"
+    ],
+    "variety": "Profusion"
+  },
+  {
+    "id": "69",
+    "name": "Eryngium planum",
+    "localized": {
+      "sk": "Kotúč",
+      "cs": "Máčka",
+      "en": "Sea holly",
+      "pl": "Mikołajek płaskolistny",
+      "de": "Edeldistel",
+      "es": "Cardo azul",
+      "fr": "Panicaut",
+      "pt": "Cardo-azul",
+      "it": "Calcatreppola",
+      "nl": "Kruisdistel",
+      "tr": "Deniz çobanpüskülü"
+    },
+    "imageAsset": "assets/image/eryngium_planum.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "blue"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "heightMaxCm": 80,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Eryngium",
+      "Sea holly"
+    ],
+    "variety": "Blue Hobbit"
+  },
+  {
+    "id": "70",
+    "name": "Escallonia rubra",
+    "localized": {
+      "sk": "Eskalónia",
+      "cs": "Escallonie",
+      "en": "Escallonia",
+      "pl": "Escallonia",
+      "de": "Escallonie",
+      "es": "Escalonia",
+      "fr": "Escallonia",
+      "pt": "Escalónia",
+      "it": "Escallonia",
+      "nl": "Escallonia",
+      "tr": "Eskalonia"
+    },
+    "imageAsset": "assets/image/escallonia_rubra.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "heightMaxCm": 250,
+    "hardinessMinC": -10,
+    "aliases": [
+      "Escallonia"
+    ],
+    "variety": "Apple Blossom"
+  },
+  {
+    "id": "71",
+    "name": "Eucalyptus gunnii",
+    "localized": {
+      "sk": "Eukalyptus",
+      "cs": "Blahovičník",
+      "en": "Cider gum",
+      "pl": "Eukaliptus Gunna",
+      "de": "Mostgummi-Eukalyptus",
+      "es": "Eucalipto de Gunn",
+      "fr": "Gommier cidre",
+      "pt": "Eucalipto-de-Gunn",
+      "it": "Eucalipto di Gunn",
+      "nl": "Cidergomboom",
+      "tr": "Gümüş okaliptüs"
+    },
+    "imageAsset": "assets/image/eucalyptus_gunnii.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "heightMaxCm": 1000,
+    "hardinessMinC": -15,
+    "aliases": [
+      "Eucalyptus",
+      "Cider gum"
+    ],
+    "variety": "Silverana"
+  },
+  {
+    "id": "72",
+    "name": "Euonymus fortunei",
+    "localized": {
+      "sk": "Bršlen",
+      "cs": "Brslen",
+      "en": "Wintercreeper",
+      "pl": "Trzmielina Fortune'a",
+      "de": "Kriechspindel",
+      "es": "Evónimo",
+      "fr": "Fusain de Fortune",
+      "pt": "Evónimo",
+      "it": "Evonimo",
+      "nl": "Kardinaalsmuts",
+      "tr": "Kış sarmaşığı"
+    },
+    "imageAsset": "assets/image/euonymus_fortunei.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 80,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Euonymus",
+      "Wintercreeper"
+    ],
+    "variety": "Emerald Gaiety"
+  },
+  {
+    "id": "73",
+    "name": "Euphorbia characias",
+    "localized": {
+      "sk": "Mliečnik",
+      "cs": "Pryšec",
+      "en": "Mediterranean spurge",
+      "pl": "Wilczomlecz śródziemnomorski",
+      "de": "Mittelmeer-Wolfsmilch",
+      "es": "Euforbia mediterránea",
+      "fr": "Euphorbe des garrigues",
+      "pt": "Eufórbia mediterrânica",
+      "it": "Euforbia mediterranea",
+      "nl": "Wolfsmelk",
+      "tr": "Akdeniz sütleğeni"
+    },
+    "imageAsset": "assets/image/euphorbia_characias.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "green"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 120,
+    "hardinessMinC": -15,
+    "aliases": [
+      "Euphorbia",
+      "Mediterranean spurge"
+    ],
+    "variety": "Tasmanian Tiger"
+  },
+  {
+    "id": "74",
+    "name": "Fagus sylvatica",
+    "localized": {
+      "sk": "Buk",
+      "cs": "Buk",
+      "en": "European beech",
+      "pl": "Buk pospolity",
+      "de": "Rotbuche",
+      "es": "Haya europea",
+      "fr": "Hêtre commun",
+      "pt": "Faia-europeia",
+      "it": "Faggio comune",
+      "nl": "Beuk",
+      "tr": "Avrupa kayını"
+    },
+    "imageAsset": "assets/image/fagus_sylvatica.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 3000,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Fagus",
+      "European beech"
+    ],
+    "variety": "Purpurea Pendula"
+  },
+  {
+    "id": "75",
+    "name": "Festuca glauca",
+    "localized": {
+      "sk": "Kostrava",
+      "cs": "Kostřava",
+      "en": "Blue fescue",
+      "pl": "Kostrzewa sina",
+      "de": "Blauschwingel",
+      "es": "Festuca azul",
+      "fr": "Fétuque bleue",
+      "pt": "Festuca azul",
+      "it": "Festuca glauca",
+      "nl": "Blauw zwenkgras",
+      "tr": "Mavi yumak otu"
+    },
+    "imageAsset": "assets/image/festuca_glauca.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 40,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Festuca",
+      "Blue fescue"
+    ],
+    "variety": "Elijah Blue"
+  },
+  {
+    "id": "76",
+    "name": "Filipendula ulmaria",
+    "localized": {
+      "sk": "Túžobník",
+      "cs": "Tužebník",
+      "en": "Meadowsweet",
+      "pl": "Wiązówka błotna",
+      "de": "Mädesüß",
+      "es": "Reina de los prados",
+      "fr": "Reine-des-prés",
+      "pt": "Rainha-dos-prados",
+      "it": "Olmaria",
+      "nl": "Moerasspirea",
+      "tr": "Çayır kraliçesi"
+    },
+    "imageAsset": "assets/image/filipendula_ulmaria.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "high",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 150,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Filipendula",
+      "Meadowsweet"
+    ],
+    "variety": "Aurea"
+  },
+  {
+    "id": "77",
+    "name": "Foeniculum vulgare",
+    "localized": {
+      "sk": "Fenikel",
+      "cs": "Fenykl",
+      "en": "Fennel",
+      "pl": "Koper włoski",
+      "de": "Fenchel",
+      "es": "Hinojo",
+      "fr": "Fenouil",
+      "pt": "Funcho",
+      "it": "Finocchio",
+      "nl": "Venkel",
+      "tr": "Rezene"
+    },
+    "imageAsset": "assets/image/foeniculum_vulgare.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "yellow"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "heightMaxCm": 180,
+    "hardinessMinC": -15,
+    "aliases": [
+      "Foeniculum",
+      "Fennel"
+    ],
+    "variety": "Purpureum"
+  },
+  {
+    "id": "78",
+    "name": "Forsythia × intermedia",
+    "localized": {
+      "sk": "Zlatovka",
+      "cs": "Zlatice",
+      "en": "Forsythia",
+      "pl": "Forsycja pośrednia",
+      "de": "Forsythie",
+      "es": "Forsitia",
+      "fr": "Forsythia",
+      "pt": "Forsítia",
+      "it": "Forsizia",
+      "nl": "Forsythia",
+      "tr": "Altın çanı"
+    },
+    "imageAsset": "assets/image/forsythia_intermedia.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "yellow"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "heightMaxCm": 300,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Forsythia"
+    ],
+    "variety": "Lynwood Gold"
+  },
+  {
+    "id": "79",
+    "name": "Fragaria × ananassa",
+    "localized": {
+      "sk": "Jahoda",
+      "cs": "Jahodník",
+      "en": "Strawberry",
+      "pl": "Truskawka",
+      "de": "Erdbeere",
+      "es": "Fresa",
+      "fr": "Fraisier",
+      "pt": "Morango",
+      "it": "Fragola",
+      "nl": "Aardbei",
+      "tr": "Çilek"
+    },
+    "imageAsset": "assets/image/fragaria_ananassa.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 30,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Fragaria",
+      "Strawberry"
+    ],
+    "variety": "Elsanta"
+  },
+  {
+    "id": "80",
+    "name": "Gaillardia aristata",
+    "localized": {
+      "sk": "Kokarda",
+      "cs": "Kokarda",
+      "en": "Blanket flower",
+      "pl": "Gailardia oścista",
+      "de": "Kokardenblume",
+      "es": "Gallardia",
+      "fr": "Gaillarde",
+      "pt": "Gailárdia",
+      "it": "Gaillardia",
+      "nl": "Kokardebloem",
+      "tr": "Gaylardiya"
+    },
+    "imageAsset": "assets/image/gaillardia_aristata.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "red",
+      "yellow"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "heightMaxCm": 70,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Gaillardia",
+      "Blanket flower"
+    ],
+    "variety": "Arizona Sun"
+  },
+  {
+    "id": "81",
+    "name": "Gaura lindheimeri",
+    "localized": {
+      "sk": "Gaura",
+      "cs": "Gaura",
+      "en": "Bee blossom",
+      "pl": "Gaura Lindheimera",
+      "de": "Prachtkerze",
+      "es": "Gaura",
+      "fr": "Gaura de Lindheimer",
+      "pt": "Gaura",
+      "it": "Gaura",
+      "nl": "Prachtkaars",
+      "tr": "Gaura"
+    },
+    "imageAsset": "assets/image/gaura_lindheimeri.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "heightMaxCm": 120,
+    "hardinessMinC": -20,
+    "aliases": [
+      "Gaura",
+      "Bee blossom"
+    ],
+    "variety": "Whirling Butterflies"
+  },
+  {
+    "id": "82",
+    "name": "Genista lydia",
+    "localized": {
+      "sk": "Kručinka",
+      "cs": "Kručinka",
+      "en": "Broom",
+      "pl": "Janowiec",
+      "de": "Ginster",
+      "es": "Retama",
+      "fr": "Genêt",
+      "pt": "Giesta",
+      "it": "Ginestra",
+      "nl": "Brem",
+      "tr": "Katırtırnağı"
+    },
+    "imageAsset": "assets/image/genista_lydia.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "yellow"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 60,
+    "hardinessMinC": -20,
+    "aliases": [
+      "Genista",
+      "Broom"
+    ],
+    "variety": ""
+  },
+  {
+    "id": "83",
+    "name": "Gentiana acaulis",
+    "localized": {
+      "sk": "Horec",
+      "cs": "Hořec",
+      "en": "Gentian",
+      "pl": "Goryczka",
+      "de": "Enzian",
+      "es": "Genciana",
+      "fr": "Gentiane",
+      "pt": "Genciana",
+      "it": "Genziana",
+      "nl": "Gentiaan",
+      "tr": "Gentiyan"
+    },
+    "imageAsset": "assets/image/gentiana_acaulis.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "blue"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 20,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Gentiana",
+      "Gentian"
+    ],
+    "variety": "Blue Star"
+  },
+  {
+    "id": "84",
+    "name": "Geranium sanguineum",
+    "localized": {
+      "sk": "Pakost",
+      "cs": "Kakost",
+      "en": "Cranesbill",
+      "pl": "Bodziszek",
+      "de": "Storchschnabel",
+      "es": "Geranio vivaz",
+      "fr": "Géranium vivace",
+      "pt": "Gerânio-perene",
+      "it": "Geranio",
+      "nl": "Ooievaarsbek",
+      "tr": "Kanlı turnagagası"
+    },
+    "imageAsset": "assets/image/geranium_sanguineum.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "heightMaxCm": 40,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Geranium",
+      "Cranesbill"
+    ],
+    "variety": "Max Frei"
+  },
+  {
+    "id": "85",
+    "name": "Geum chiloense",
+    "localized": {
+      "sk": "Kuklík",
+      "cs": "Kuklík",
+      "en": "Avens",
+      "pl": "Kuklik",
+      "de": "Nelkenwurz",
+      "es": "Geum",
+      "fr": "Benoîte",
+      "pt": "Geum",
+      "it": "Geum",
+      "nl": "Nagelkruid",
+      "tr": "Geum"
+    },
+    "imageAsset": "assets/image/geum_chiloense.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "red"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "heightMaxCm": 60,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Geum",
+      "Avens"
+    ],
+    "variety": "Mrs Bradshaw"
+  },
+  {
+    "id": "86",
+    "name": "Gillenia trifoliata",
+    "localized": {
+      "sk": "Gilénia",
+      "cs": "Gillenie",
+      "en": "Bowman's root",
+      "pl": "Gillenia trójlistna",
+      "de": "Dreiblattspiere",
+      "es": "Gillenia",
+      "fr": "Gillénie trifoliée",
+      "pt": "Gillenia",
+      "it": "Gillenia",
+      "nl": "Driebladspirea",
+      "tr": "Gillenia"
+    },
+    "imageAsset": "assets/image/gillenia_trifoliata.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 100,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Gillenia",
+      "Bowman's root"
+    ],
+    "variety": "Pink Profusion"
+  },
+  {
+    "id": "87",
+    "name": "Ginkgo biloba",
+    "localized": {
+      "sk": "Ginko",
+      "cs": "Jinan",
+      "en": "Maidenhair tree",
+      "pl": "Miłorząb dwuklapowy",
+      "de": "Ginkgo",
+      "es": "Ginkgo",
+      "fr": "Ginkgo biloba",
+      "pt": "Ginkgo",
+      "it": "Ginkgo",
+      "nl": "Japanse notenboom",
+      "tr": "Ginkgo"
+    },
+    "imageAsset": "assets/image/ginkgo_biloba.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [],
+    "bloomMonths": [],
+    "heightMaxCm": 2000,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Ginkgo",
+      "Maidenhair tree"
+    ],
+    "variety": "Autumn Gold"
+  },
+  {
+    "id": "88",
+    "name": "Gypsophila paniculata",
+    "localized": {
+      "sk": "Gypsomilka",
+      "cs": "Šater",
+      "en": "Baby's breath",
+      "pl": "Gipsówka wiechowata",
+      "de": "Schleierkraut",
+      "es": "Velo de novia",
+      "fr": "Gypsophile",
+      "pt": "Mosquitinho",
+      "it": "Velo da sposa",
+      "nl": "Gipskruid",
+      "tr": "Bebek nefesi"
+    },
+    "imageAsset": "assets/image/gypsophila_paniculata.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "heightMaxCm": 100,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Gypsophila",
+      "Baby's breath"
+    ],
+    "variety": "Bristol Fairy"
+  },
+  {
+    "id": "89",
+    "name": "Hamamelis × intermedia",
+    "localized": {
+      "sk": "Hamamel",
+      "cs": "Vilín",
+      "en": "Witch hazel",
+      "pl": "Oczar pośredni",
+      "de": "Zaubernuss",
+      "es": "Hamamelis",
+      "fr": "Hamamélis",
+      "pt": "Hamamélis",
+      "it": "Amamelide",
+      "nl": "Toverhazelaar",
+      "tr": "Cadı fındığı"
+    },
+    "imageAsset": "assets/image/hamamelis_intermedia.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "yellow"
+    ],
+    "bloomMonths": [
+      1,
+      2
+    ],
+    "heightMaxCm": 400,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Hamamelis",
+      "Witch hazel"
+    ],
+    "variety": "Arnold Promise"
+  },
+  {
+    "id": "90",
+    "name": "Hedera helix",
+    "localized": {
+      "sk": "Brečtan",
+      "cs": "Břečťan",
+      "en": "English ivy",
+      "pl": "Bluszcz pospolity",
+      "de": "Efeu",
+      "es": "Hiedra",
+      "fr": "Lierre",
+      "pt": "Hera",
+      "it": "Edera",
+      "nl": "Klimop",
+      "tr": "İngiliz sarmaşığı"
+    },
+    "imageAsset": "assets/image/hedera_helix.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [],
+    "bloomMonths": [
+      9,
+      10
+    ],
+    "heightMaxCm": 2000,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Hedera",
+      "English ivy"
+    ],
+    "variety": "Glacier"
+  },
+  {
+    "id": "91",
+    "name": "Helenium autumnale",
+    "localized": {
+      "sk": "Helénium",
+      "cs": "Záplevák",
+      "en": "Sneezeweed",
+      "pl": "Dzielżan jesienny",
+      "de": "Sonnenbraut",
+      "es": "Helenio",
+      "fr": "Hélénie d'automne",
+      "pt": "Helénio",
+      "it": "Helenium",
+      "nl": "Zonnekruid",
+      "tr": "Helenium"
+    },
+    "imageAsset": "assets/image/helenium_autumnale.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "red"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "heightMaxCm": 140,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Helenium",
+      "Sneezeweed"
+    ],
+    "variety": "Moerheim Beauty"
+  },
+  {
+    "id": "92",
+    "name": "Helianthus annuus",
+    "localized": {
+      "sk": "Slnečnica",
+      "cs": "Slunečnice",
+      "en": "Sunflower",
+      "pl": "Słonecznik",
+      "de": "Sonnenblume",
+      "es": "Girasol",
+      "fr": "Tournesol",
+      "pt": "Girassol",
+      "it": "Girasole",
+      "nl": "Zonnebloem",
+      "tr": "Ayçiçeği"
+    },
+    "imageAsset": "assets/image/helianthus_annuus.webp",
+    "lifecycle": "annual",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "yellow"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "heightMaxCm": 250,
+    "hardinessMinC": 0,
+    "aliases": [
+      "Helianthus",
+      "Sunflower"
+    ],
+    "variety": "Lemon Queen"
+  },
+  {
+    "id": "93",
+    "name": "Helictotrichon sempervirens",
+    "localized": {
+      "sk": "Ovsíkovec",
+      "cs": "Ovsíř",
+      "en": "Blue oat grass",
+      "pl": "Owies wieczniezielony",
+      "de": "Blaustrahlhafer",
+      "es": "Avena azul",
+      "fr": "Avoine bleue",
+      "pt": "Aveia-azul",
+      "it": "Avena blu",
+      "nl": "Blauw havergras",
+      "tr": "Mavi yulaf otu"
+    },
+    "imageAsset": "assets/image/helictotrichon_sempervirens.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 100,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Helictotrichon",
+      "Blue oat grass"
+    ],
+    "variety": "Sapphire"
+  },
+  {
+    "id": "94",
+    "name": "Heliopsis helianthoides",
+    "localized": {
+      "sk": "Slnečníčka",
+      "cs": "Hvězdnice slunečnicová",
+      "en": "False sunflower",
+      "pl": "Słoneczniczek szorstki",
+      "de": "Sonnenauge",
+      "es": "Heliopsis",
+      "fr": "Héliopsis",
+      "pt": "Heliopsis",
+      "it": "Eliopside",
+      "nl": "Zonneoog",
+      "tr": "Yalancı ayçiçeği"
+    },
+    "imageAsset": "assets/image/heliopsis_helianthoides.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "yellow"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "heightMaxCm": 140,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Heliopsis",
+      "False sunflower"
+    ],
+    "variety": "Summer Sun"
+  },
+  {
+    "id": "95",
+    "name": "Helleborus orientalis",
+    "localized": {
+      "sk": "Čemerica",
+      "cs": "Čemeřice",
+      "en": "Lenten rose",
+      "pl": "Ciemiernik wschodni",
+      "de": "Christrose",
+      "es": "Eléboro oriental",
+      "fr": "Rose de Carême",
+      "pt": "Heléboro oriental",
+      "it": "Elleboro orientale",
+      "nl": "Nieskruid",
+      "tr": "Noel gülü"
+    },
+    "imageAsset": "assets/image/helleborus_orientalis.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white",
+      "pink",
+      "purple"
+    ],
+    "bloomMonths": [
+      2,
+      3,
+      4
+    ],
+    "heightMaxCm": 50,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Helleborus",
+      "Lenten rose"
+    ],
+    "variety": "Double Ellen Pink"
+  },
+  {
+    "id": "96",
+    "name": "Hemerocallis fulva",
+    "localized": {
+      "sk": "Laliovka",
+      "cs": "Denivka",
+      "en": "Daylily",
+      "pl": "Liliowiec",
+      "de": "Taglilie",
+      "es": "Hemerocallis",
+      "fr": "Hémérocalle",
+      "pt": "Lírio-de-um-dia",
+      "it": "Emerocallide",
+      "nl": "Daglelie",
+      "tr": "Gündüz zambağı"
+    },
+    "imageAsset": "assets/image/hemerocallis_fulva.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "yellow"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 80,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Hemerocallis",
+      "Daylily"
+    ],
+    "variety": "Stella de Oro"
+  },
+  {
+    "id": "97",
+    "name": "Heuchera",
+    "localized": {
+      "sk": "Heuchera",
+      "cs": "Dlužicha",
+      "en": "Coral bells",
+      "pl": "Żurawka",
+      "de": "Purpurglöckchen",
+      "es": "Heuchera",
+      "fr": "Heuchère",
+      "pt": "Heuchera",
+      "it": "Heuchera",
+      "nl": "Purperklokje",
+      "tr": "Heuchera"
+    },
+    "imageAsset": "assets/image/heuchera.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 50,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Heuchera",
+      "Coral bells"
+    ],
+    "variety": "Caramel"
+  },
+  {
+    "id": "98",
+    "name": "Heucherella",
+    "localized": {
+      "sk": "Heucherela",
+      "cs": "Heucherela",
+      "en": "Foamy bells",
+      "pl": "Heucherella",
+      "de": "Schaumglöckchen",
+      "es": "Heucherella",
+      "fr": "Heucherella",
+      "pt": "Heucherella",
+      "it": "Heucherella",
+      "nl": "Schuimklokje",
+      "tr": "Heucherella"
+    },
+    "imageAsset": "assets/image/heucherella.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 40,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Heucherella",
+      "Foamy bells"
+    ],
+    "variety": "Sweet Tea"
+  },
+  {
+    "id": "99",
+    "name": "Hibiscus syriacus",
+    "localized": {
+      "sk": "Ibištek",
+      "cs": "Ibišek",
+      "en": "Rose of Sharon",
+      "pl": "Ketmia syryjska",
+      "de": "Garteneibisch",
+      "es": "Rosa de Siria",
+      "fr": "Althéa",
+      "pt": "Hibisco-da-síria",
+      "it": "Ibisco siriaco",
+      "nl": "Struikhibiscus",
+      "tr": "Ağaç hatmi"
+    },
+    "imageAsset": "assets/image/hibiscus_syriacus.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "blue"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "heightMaxCm": 300,
+    "hardinessMinC": -20,
+    "aliases": [
+      "Hibiscus",
+      "Rose of Sharon"
+    ],
+    "variety": "Blue Bird"
+  },
+  {
+    "id": "100",
+    "name": "Hosta sieboldiana",
+    "localized": {
+      "sk": "Funkia",
+      "cs": "Bohyška",
+      "en": "Hosta",
+      "pl": "Funkia",
+      "de": "Funkie",
+      "es": "Hosta",
+      "fr": "Hosta",
+      "pt": "Hosta",
+      "it": "Hosta",
+      "nl": "Hartlelie",
+      "tr": "Hosta"
+    },
+    "imageAsset": "assets/image/hosta_sieboldiana.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "purple"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "heightMaxCm": 70,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Hosta"
+    ],
+    "variety": "Halcyon"
+  },
+  {
+    "id": "101",
+    "name": "Houttuynia cordata",
+    "localized": {
+      "sk": "Chameleonka",
+      "cs": "Houttuynie",
+      "en": "Chameleon plant",
+      "pl": "Houttuynia sercowata",
+      "de": "Chamäleonpflanze",
+      "es": "Planta camaleón",
+      "fr": "Plante caméléon",
+      "pt": "Planta-camaleão",
+      "it": "Pianta camaleonte",
+      "nl": "Mozaïekplant",
+      "tr": "Bukalemun bitkisi"
+    },
+    "imageAsset": "assets/image/houttuynia_cordata.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "high",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 40,
+    "hardinessMinC": -20,
+    "aliases": [
+      "Houttuynia",
+      "Chameleon plant"
+    ],
+    "variety": "Chameleon"
+  },
+  {
+    "id": "102",
+    "name": "Hydrangea paniculata",
+    "localized": {
+      "sk": "Hortenzia",
+      "cs": "Hortenzie",
+      "en": "Panicle hydrangea",
+      "pl": "Hortensja bukietowa",
+      "de": "Rispenhortensie",
+      "es": "Hortensia paniculada",
+      "fr": "Hortensia paniculé",
+      "pt": "Hortênsia-paniculada",
+      "it": "Ortensia a pannocchia",
+      "nl": "Pluimhortensia",
+      "tr": "Salkım ortanca"
+    },
+    "imageAsset": "assets/image/hydrangea_paniculata.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "heightMaxCm": 300,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Hydrangea",
+      "Panicle hydrangea"
+    ],
+    "variety": "Limelight"
+  },
+  {
+    "id": "103",
+    "name": "Hyacinthus orientalis",
+    "localized": {
+      "sk": "Hyacint",
+      "cs": "Hyacint",
+      "en": "Hyacinth",
+      "pl": "Hiacynt wschodni",
+      "de": "Hyazinthe",
+      "es": "Jacinto",
+      "fr": "Jacinthe",
+      "pt": "Jacinto",
+      "it": "Giacinto",
+      "nl": "Hyacint",
+      "tr": "Sümbül"
+    },
+    "imageAsset": "assets/image/hyacinthus_orientalis.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "blue"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 30,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Hyacinthus",
+      "Hyacinth"
+    ],
+    "variety": "Delft Blue"
+  },
+  {
+    "id": "104",
+    "name": "Iberis sempervirens",
+    "localized": {
+      "sk": "Iberka",
+      "cs": "Tařice",
+      "en": "Candytuft",
+      "pl": "Ubiorek wieczniezielony",
+      "de": "Schleifenblume",
+      "es": "Carraspique",
+      "fr": "Corbeille d'argent",
+      "pt": "Iberis",
+      "it": "Iberide",
+      "nl": "Sneeuwkussen",
+      "tr": "İberis"
+    },
+    "imageAsset": "assets/image/iberis_sempervirens.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 30,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Iberis",
+      "Candytuft"
+    ],
+    "variety": "Snowflake"
+  },
+  {
+    "id": "105",
+    "name": "Ilex aquifolium",
+    "localized": {
+      "sk": "Cezmína",
+      "cs": "Cesmína",
+      "en": "English holly",
+      "pl": "Ostrokrzew kolczasty",
+      "de": "Stechpalme",
+      "es": "Acebo",
+      "fr": "Houx",
+      "pt": "Azevinho",
+      "it": "Agrifoglio",
+      "nl": "Hulst",
+      "tr": "İngiliz çobanpüskülü"
+    },
+    "imageAsset": "assets/image/ilex_aquifolium.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 1000,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Ilex",
+      "English holly"
+    ],
+    "variety": "J.C. van Tol"
+  },
+  {
+    "id": "106",
+    "name": "Imperata cylindrica",
+    "localized": {
+      "sk": "Imperáta",
+      "cs": "Imperáta",
+      "en": "Japanese blood grass",
+      "pl": "Imperata cylindryczna",
+      "de": "Japanisches Blutgras",
+      "es": "Hierba japonesa roja",
+      "fr": "Herbe sanglante",
+      "pt": "Capim-sangue-japonês",
+      "it": "Erba sanguigna giapponese",
+      "nl": "Japans bloedgras",
+      "tr": "Japon kan otu"
+    },
+    "imageAsset": "assets/image/imperata_cylindrica.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [],
+    "bloomMonths": [],
+    "heightMaxCm": 60,
+    "hardinessMinC": -20,
+    "aliases": [
+      "Imperata",
+      "Japanese blood grass"
+    ],
+    "variety": "Red Baron"
+  },
+  {
+    "id": "107",
+    "name": "Iris germanica",
+    "localized": {
+      "sk": "Kosatec",
+      "cs": "Kosatec",
+      "en": "Bearded iris",
+      "pl": "Kosaciec bródkowy",
+      "de": "Bart-Iris",
+      "es": "Lirio barbudo",
+      "fr": "Iris des jardins",
+      "pt": "Íris-barbada",
+      "it": "Giaggiolo",
+      "nl": "Baardiris",
+      "tr": "Sakallı iris"
+    },
+    "imageAsset": "assets/image/iris_germanica.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 90,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Iris",
+      "Bearded iris"
+    ],
+    "variety": "Immortality"
+  },
+  {
+    "id": "108",
+    "name": "Kerria japonica",
+    "localized": {
+      "sk": "Zákula",
+      "cs": "Zákula",
+      "en": "Japanese kerria",
+      "pl": "Kerria japońska",
+      "de": "Ranunkelstrauch",
+      "es": "Kerria japonesa",
+      "fr": "Corète du Japon",
+      "pt": "Quéria-do-japão",
+      "it": "Kerria del Giappone",
+      "nl": "Ranonkelstruik",
+      "tr": "Japon keryası"
+    },
+    "imageAsset": "assets/image/kerria_japonica.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "yellow"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 250,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Kerria",
+      "Japanese kerria"
+    ],
+    "variety": "Pleniflora"
+  },
+  {
+    "id": "109",
+    "name": "Kniphofia uvaria",
+    "localized": {
+      "sk": "Fakľovka",
+      "cs": "Kleopatřina jehla",
+      "en": "Red hot poker",
+      "pl": "Trytoma groniasta",
+      "de": "Fackellilie",
+      "es": "Tritoma",
+      "fr": "Tison de Satan",
+      "pt": "Tritoma",
+      "it": "Kniphofia",
+      "nl": "Vuurpijl",
+      "tr": "Fener çiçeği"
+    },
+    "imageAsset": "assets/image/kniphofia_uvaria.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "orange",
+      "red"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "heightMaxCm": 120,
+    "hardinessMinC": -15,
+    "aliases": [
+      "Kniphofia",
+      "Red hot poker"
+    ],
+    "variety": "Royal Standard"
+  },
+  {
+    "id": "110",
+    "name": "Lagerstroemia indica",
+    "localized": {
+      "sk": "Myrta indická",
+      "cs": "Lagerstroémie",
+      "en": "Crape myrtle",
+      "pl": "Lagerstremia indyjska",
+      "de": "Kreppmyrte",
+      "es": "Árbol de Júpiter",
+      "fr": "Lilas des Indes",
+      "pt": "Resedá",
+      "it": "Lagerstroemia",
+      "nl": "Indische sering",
+      "tr": "Oya ağacı"
+    },
+    "imageAsset": "assets/image/lagerstroemia_indica.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "red"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "heightMaxCm": 400,
+    "hardinessMinC": -15,
+    "aliases": [
+      "Lagerstroemia",
+      "Crape myrtle"
+    ],
+    "variety": "Dynamite"
+  },
+  {
+    "id": "111",
+    "name": "Lavandula angustifolia",
+    "localized": {
+      "sk": "Levanduľa",
+      "cs": "Levandule",
+      "en": "English purple",
+      "pl": "Lawenda wąskolistna",
+      "de": "Echter Lavendel",
+      "es": "Lavanda",
+      "fr": "Lavande vraie",
+      "pt": "Lavanda",
+      "it": "Lavanda",
+      "nl": "Lavendel",
+      "tr": "İngiliz lavantası"
+    },
+    "imageAsset": "assets/image/lavandula_angustifolia.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "purple"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "heightMaxCm": 60,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Lavandula",
+      "English purple"
+    ],
+    "variety": "Hidcote"
+  },
+  {
+    "id": "112",
+    "name": "Leptinella squalida",
+    "localized": {
+      "sk": "Machovec",
+      "cs": "Leptinela",
+      "en": "Brass buttons",
+      "pl": "Leptinella",
+      "de": "Fiederpolster",
+      "es": "Leptinella",
+      "fr": "Leptinella",
+      "pt": "Leptinella",
+      "it": "Leptinella",
+      "nl": "Koperknoopje",
+      "tr": "Leptinella"
+    },
+    "imageAsset": "assets/image/leptinella_squalida.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "yellow"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 5,
+    "hardinessMinC": -20,
+    "aliases": [
+      "Leptinella",
+      "Brass buttons"
+    ],
+    "variety": "Platt's Black"
+  },
+  {
+    "id": "113",
+    "name": "Leucanthemum × superbum",
+    "localized": {
+      "sk": "Margaréta",
+      "cs": "Kopretina",
+      "en": "Shasta daisy",
+      "pl": "Złocień wielki",
+      "de": "Margerite",
+      "es": "Margarita de Shasta",
+      "fr": "Marguerite",
+      "pt": "Margarida",
+      "it": "Margherita",
+      "nl": "Margriet",
+      "tr": "Şasta papatyası"
+    },
+    "imageAsset": "assets/image/leucanthemum_superbum.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "heightMaxCm": 80,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Leucanthemum",
+      "Shasta daisy"
+    ],
+    "variety": "Becky"
+  },
+  {
+    "id": "114",
+    "name": "Liatris spicata",
+    "localized": {
+      "sk": "Šuškarda",
+      "cs": "Šuškarda",
+      "en": "Blazing star",
+      "pl": "Liatra kłosowa",
+      "de": "Prachtscharte",
+      "es": "Liatris",
+      "fr": "Liatris",
+      "pt": "Liatris",
+      "it": "Liatris",
+      "nl": "Lampenpoetser",
+      "tr": "Liatris"
+    },
+    "imageAsset": "assets/image/liatris_spicata.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "purple"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "heightMaxCm": 80,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Liatris",
+      "Blazing star"
+    ],
+    "variety": "Kobold"
+  },
+  {
+    "id": "115",
+    "name": "Ligularia dentata",
+    "localized": {
+      "sk": "Jazyčník",
+      "cs": "Popelivka",
+      "en": "Leopard plant",
+      "pl": "Języczka pomarańczowa",
+      "de": "Ligularie",
+      "es": "Ligularia",
+      "fr": "Ligulaire",
+      "pt": "Ligulária",
+      "it": "Ligularia",
+      "nl": "Kruiskruid",
+      "tr": "Leopar bitkisi"
+    },
+    "imageAsset": "assets/image/ligularia_dentata.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "high",
+    "flowerColors": [
+      "yellow"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "heightMaxCm": 100,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Ligularia",
+      "Leopard plant"
+    ],
+    "variety": "Othello"
+  },
+  {
+    "id": "116",
+    "name": "Lilium",
+    "localized": {
+      "sk": "Ľalia",
+      "cs": "Lilie",
+      "en": "Lily",
+      "pl": "Lilia",
+      "de": "Lilie",
+      "es": "Lirio",
+      "fr": "Lis",
+      "pt": "Lírio",
+      "it": "Giglio",
+      "nl": "Lelie",
+      "tr": "Zambak"
+    },
+    "imageAsset": "assets/image/lilium.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white",
+      "pink"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "heightMaxCm": 120,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Lilium",
+      "Lily"
+    ],
+    "variety": "Stargazer"
+  },
+  {
+    "id": "117",
+    "name": "Limonium latifolium",
+    "localized": {
+      "sk": "Limonka",
+      "cs": "Limonka",
+      "en": "Sea purple",
+      "pl": "Zatrwian szerokolistny",
+      "de": "Strandflieder",
+      "es": "Lavanda de mar",
+      "fr": "Statice",
+      "pt": "Lavanda-do-mar",
+      "it": "Statice",
+      "nl": "Lamsoor",
+      "tr": "Deniz lavantası"
+    },
+    "imageAsset": "assets/image/limonium_latifolium.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "purple"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "heightMaxCm": 80,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Limonium",
+      "Sea purple"
+    ],
+    "variety": "Violetta"
+  },
+  {
+    "id": "118",
+    "name": "Lonicera periclymenum",
+    "localized": {
+      "sk": "Zemolez",
+      "cs": "Zimolez",
+      "en": "Honeysuckle",
+      "pl": "Wiciokrzew",
+      "de": "Geißblatt",
+      "es": "Madreselva",
+      "fr": "Chèvrefeuille",
+      "pt": "Madressilva",
+      "it": "Caprifoglio",
+      "nl": "Kamperfoelie",
+      "tr": "Hanımeli"
+    },
+    "imageAsset": "assets/image/lonicera_periclymenum.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "yellow",
+      "red"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "heightMaxCm": 500,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Lonicera",
+      "Honeysuckle"
+    ],
+    "variety": "Serotina"
+  },
+  {
+    "id": "119",
+    "name": "Lupinus polyphyllus",
+    "localized": {
+      "sk": "Lupína",
+      "cs": "Lupina",
+      "en": "Lupine",
+      "pl": "Łubin trwały",
+      "de": "Lupine",
+      "es": "Altramuz",
+      "fr": "Lupin",
+      "pt": "Tremoço",
+      "it": "Lupino",
+      "nl": "Lupine",
+      "tr": "Acı bakla"
+    },
+    "imageAsset": "assets/image/lupinus_polyphyllus.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "red"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 100,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Lupinus",
+      "Lupine"
+    ],
+    "variety": "Gallery Red"
+  },
+  {
+    "id": "120",
+    "name": "Luzula nivea",
+    "localized": {
+      "sk": "Chlpaňa",
+      "cs": "Bika",
+      "en": "Snowy woodrush",
+      "pl": "Kosmatka śnieżna",
+      "de": "Schnee-Marbel",
+      "es": "Luzula blanca",
+      "fr": "Luzule blanche",
+      "pt": "Luzula branca",
+      "it": "Luzula nivea",
+      "nl": "Witte veldbies",
+      "tr": "Karlı luzula"
+    },
+    "imageAsset": "assets/image/luzula_nivea.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 50,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Luzula",
+      "Snowy woodrush"
+    ],
+    "variety": ""
+  },
+  {
+    "id": "121",
+    "name": "Lychnis coronaria",
+    "localized": {
+      "sk": "Kukučka",
+      "cs": "Kohoutek věncový",
+      "en": "Rose campion",
+      "pl": "Firletka kwiecista",
+      "de": "Kronen-Lichtnelke",
+      "es": "Clavel lanudo",
+      "fr": "Coquelourde des jardins",
+      "pt": "Licnide",
+      "it": "Licnide coronaria",
+      "nl": "Prikneus",
+      "tr": "Kadife çiçeği"
+    },
+    "imageAsset": "assets/image/lychnis_coronaria.webp",
+    "lifecycle": "biennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "heightMaxCm": 80,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Lychnis",
+      "Rose campion"
+    ],
+    "variety": "Atrosanguinea"
+  },
+  {
+    "id": "122",
+    "name": "Lycium barbarum",
+    "localized": {
+      "sk": "Kustovnica",
+      "cs": "Kustovnice",
+      "en": "Goji berry",
+      "pl": "Kolcowój pospolity",
+      "de": "Bocksdorn",
+      "es": "Baya de goji",
+      "fr": "Baie de goji",
+      "pt": "Bagas de goji",
+      "it": "Bacche di goji",
+      "nl": "Gojibes",
+      "tr": "Goji meyvesi"
+    },
+    "imageAsset": "assets/image/lycium_barbarum.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "purple"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 250,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Lycium",
+      "Goji berry"
+    ],
+    "variety": "New Big"
+  },
+  {
+    "id": "123",
+    "name": "Lysimachia nummularia",
+    "localized": {
+      "sk": "Vrbina",
+      "cs": "Vrbina",
+      "en": "Creeping Jenny",
+      "pl": "Tojeść rozesłana",
+      "de": "Pfennigkraut",
+      "es": "Monedita",
+      "fr": "Lysimaque nummulaire",
+      "pt": "Lisimáquia",
+      "it": "Lisimachia",
+      "nl": "Penningkruid",
+      "tr": "Sürünen lizimakya"
+    },
+    "imageAsset": "assets/image/lysimachia_nummularia.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "high",
+    "flowerColors": [
+      "yellow"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 10,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Lysimachia",
+      "Creeping Jenny"
+    ],
+    "variety": "Aurea"
+  },
+  {
+    "id": "124",
+    "name": "Lythrum salicaria",
+    "localized": {
+      "sk": "Vrbovka",
+      "cs": "Kyprej",
+      "en": "Purple loosestrife",
+      "pl": "Krwawnica pospolita",
+      "de": "Blutweiderich",
+      "es": "Salicaria",
+      "fr": "Salicaire",
+      "pt": "Salicária",
+      "it": "Salcerella",
+      "nl": "Kattenstaart",
+      "tr": "Mor gevşekotu"
+    },
+    "imageAsset": "assets/image/lythrum_salicaria.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "high",
+    "flowerColors": [
+      "purple"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "heightMaxCm": 120,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Lythrum",
+      "Purple loosestrife"
+    ],
+    "variety": "Robert"
+  },
+  {
+    "id": "125",
+    "name": "Magnolia stellata",
+    "localized": {
+      "sk": "Magnólia",
+      "cs": "Magnolie",
+      "en": "Star magnolia",
+      "pl": "Magnolia gwiaździsta",
+      "de": "Stern-Magnolie",
+      "es": "Magnolia estrellada",
+      "fr": "Magnolia étoilé",
+      "pt": "Magnólia-estrelada",
+      "it": "Magnolia stellata",
+      "nl": "Stermagnolia",
+      "tr": "Yıldız manolya"
+    },
+    "imageAsset": "assets/image/magnolia_stellata.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "heightMaxCm": 400,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Magnolia",
+      "Star magnolia"
+    ],
+    "variety": "Royal Star"
+  },
+  {
+    "id": "126",
+    "name": "Mahonia aquifolium",
+    "localized": {
+      "sk": "Mahónia",
+      "cs": "Mahonie",
+      "en": "Oregon grape",
+      "pl": "Mahonia pospolita",
+      "de": "Mahonie",
+      "es": "Mahonia",
+      "fr": "Mahonia",
+      "pt": "Mahónia",
+      "it": "Mahonia",
+      "nl": "Mahonie",
+      "tr": "Mahonia"
+    },
+    "imageAsset": "assets/image/mahonia_aquifolium.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "yellow"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 150,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Mahonia",
+      "Oregon grape"
+    ],
+    "variety": "Apollo"
+  },
+  {
+    "id": "127",
+    "name": "Matteuccia struthiopteris",
+    "localized": {
+      "sk": "Perovník",
+      "cs": "Pérovník",
+      "en": "Ostrich fern",
+      "pl": "Pióropusznik strusi",
+      "de": "Straußenfarn",
+      "es": "Helecho avestruz",
+      "fr": "Fougère à l'autruche",
+      "pt": "Feto-avestruz",
+      "it": "Felce struzzo",
+      "nl": "Struisvaren",
+      "tr": "Devekuşu eğreltisi"
+    },
+    "imageAsset": "assets/image/matteuccia_struthiopteris.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "high",
+    "flowerColors": [],
+    "bloomMonths": [],
+    "heightMaxCm": 150,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Matteuccia",
+      "Ostrich fern"
+    ],
+    "variety": ""
+  },
+  {
+    "id": "128",
+    "name": "Mentha spicata",
+    "localized": {
+      "sk": "Mäta",
+      "cs": "Máta",
+      "en": "Spearmint",
+      "pl": "Mięta zielona",
+      "de": "Grüne Minze",
+      "es": "Hierbabuena",
+      "fr": "Menthe verte",
+      "pt": "Hortelã-verde",
+      "it": "Menta verde",
+      "nl": "Groene munt",
+      "tr": "Nane"
+    },
+    "imageAsset": "assets/image/mentha_spicata.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "high",
+    "flowerColors": [
+      "purple"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "heightMaxCm": 80,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Mentha",
+      "Spearmint"
+    ],
+    "variety": "Moroccan"
+  },
+  {
+    "id": "129",
+    "name": "Miscanthus sinensis",
+    "localized": {
+      "sk": "Ozdobnica",
+      "cs": "Ozdobnice",
+      "en": "Chinese silver grass",
+      "pl": "Miskant chiński",
+      "de": "Chinaschilf",
+      "es": "Miscanthus",
+      "fr": "Roseau de Chine",
+      "pt": "Miscanthus",
+      "it": "Miscanto cinese",
+      "nl": "Prachtriet",
+      "tr": "Çin gümüş otu"
+    },
+    "imageAsset": "assets/image/miscanthus_sinensis.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [],
+    "bloomMonths": [
+      9,
+      10
+    ],
+    "heightMaxCm": 180,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Miscanthus",
+      "Chinese silver grass"
+    ],
+    "variety": "Gracillimus"
+  },
+  {
+    "id": "130",
+    "name": "Molinia caerulea",
+    "localized": {
+      "sk": "Bezkolenec",
+      "cs": "Bezkolenec",
+      "en": "Purple moor grass",
+      "pl": "Trzęślica modra",
+      "de": "Pfeifengras",
+      "es": "Molinia",
+      "fr": "Molinie bleue",
+      "pt": "Molinia",
+      "it": "Molinia",
+      "nl": "Pijpenstrootje",
+      "tr": "Mor bataklık otu"
+    },
+    "imageAsset": "assets/image/molinia_caerulea.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "heightMaxCm": 180,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Molinia",
+      "Purple moor grass"
+    ],
+    "variety": "Transparent"
+  },
+  {
+    "id": "131",
+    "name": "Monarda didyma",
+    "localized": {
+      "sk": "Monarda",
+      "cs": "Zavinutka",
+      "en": "Bee balm",
+      "pl": "Pysznogłówka dwoista",
+      "de": "Indianernessel",
+      "es": "Bergamota escarlata",
+      "fr": "Monarde",
+      "pt": "Monarda",
+      "it": "Monarda",
+      "nl": "Bergamotplant",
+      "tr": "Arı balsamı"
+    },
+    "imageAsset": "assets/image/monarda_didyma.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "red"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "heightMaxCm": 120,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Monarda",
+      "Bee balm"
+    ],
+    "variety": "Jacob Cline"
+  },
+  {
+    "id": "132",
+    "name": "Muscari armeniacum",
+    "localized": {
+      "sk": "Modrica",
+      "cs": "Modřenec",
+      "en": "Grape hyacinth",
+      "pl": "Szafirek armeński",
+      "de": "Traubenhyazinthe",
+      "es": "Jacinto de uva",
+      "fr": "Muscari d'Arménie",
+      "pt": "Muscari",
+      "it": "Muscari",
+      "nl": "Blauwe druifjes",
+      "tr": "Üzüm sümbülü"
+    },
+    "imageAsset": "assets/image/muscari_armeniacum.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "blue"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 20,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Muscari",
+      "Grape hyacinth"
+    ],
+    "variety": "Blue Spike"
+  },
+  {
+    "id": "133",
+    "name": "Narcissus poeticus",
+    "localized": {
+      "sk": "Narcis",
+      "cs": "Narcis",
+      "en": "Daffodil",
+      "pl": "Narcyz",
+      "de": "Narzisse",
+      "es": "Narciso",
+      "fr": "Narcisse",
+      "pt": "Narciso",
+      "it": "Narciso",
+      "nl": "Narcis",
+      "tr": "Nergis"
+    },
+    "imageAsset": "assets/image/narcissus_poeticus.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "heightMaxCm": 40,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Narcissus",
+      "Daffodil"
+    ],
+    "variety": "Thalia"
+  },
+  {
+    "id": "134",
+    "name": "Nepeta × faassenii",
+    "localized": {
+      "sk": "Kocúrnik",
+      "cs": "Šanta",
+      "en": "Catmint",
+      "pl": "Kocimiętka Faassena",
+      "de": "Katzenminze",
+      "es": "Nepeta",
+      "fr": "Népéta",
+      "pt": "Erva-dos-gatos",
+      "it": "Nepeta",
+      "nl": "Kattenkruid",
+      "tr": "Kedi nanesi"
+    },
+    "imageAsset": "assets/image/nepeta_faassenii.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "blue"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "heightMaxCm": 50,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Nepeta",
+      "Catmint"
+    ],
+    "variety": "Walker's Low"
+  },
+  {
+    "id": "135",
+    "name": "Olea europaea",
+    "localized": {
+      "sk": "Oliva",
+      "cs": "Olivovník",
+      "en": "Olive tree",
+      "pl": "Oliwka europejska",
+      "de": "Olivenbaum",
+      "es": "Olivo",
+      "fr": "Olivier",
+      "pt": "Oliveira",
+      "it": "Olivo",
+      "nl": "Olijfboom",
+      "tr": "Zeytin ağacı"
+    },
+    "imageAsset": "assets/image/olea_europaea.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 800,
+    "hardinessMinC": -10,
+    "aliases": [
+      "Olea",
+      "Olive tree"
+    ],
+    "variety": "Frantoio"
+  },
+  {
+    "id": "136",
+    "name": "Ophiopogon planiscapus",
+    "localized": {
+      "sk": "Bradník",
+      "cs": "Ophiopogon",
+      "en": "Mondo grass",
+      "pl": "Konwalnik płaskopędowy",
+      "de": "Schlangenbart",
+      "es": "Barba de serpiente",
+      "fr": "Ophiopogon",
+      "pt": "Barba-de-serpente",
+      "it": "Ophiopogon",
+      "nl": "Slangenbaard",
+      "tr": "Mondo çimi"
+    },
+    "imageAsset": "assets/image/ophiopogon_planiscapus.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "heightMaxCm": 25,
+    "hardinessMinC": -20,
+    "aliases": [
+      "Ophiopogon",
+      "Mondo grass"
+    ],
+    "variety": "Nigrescens"
+  },
+  {
+    "id": "137",
+    "name": "Origanum vulgare",
+    "localized": {
+      "sk": "Oregano",
+      "cs": "Dobromysl",
+      "en": "Oregano",
+      "pl": "Oregano",
+      "de": "Oregano",
+      "es": "Orégano",
+      "fr": "Origan",
+      "pt": "Orégano",
+      "it": "Origano",
+      "nl": "Oregano",
+      "tr": "Kekik"
+    },
+    "imageAsset": "assets/image/origanum_vulgare.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "heightMaxCm": 60,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Origanum",
+      "Oregano"
+    ],
+    "variety": "Aureum"
+  },
+  {
+    "id": "138",
+    "name": "Osmanthus heterophyllus",
+    "localized": {
+      "sk": "Osmant",
+      "cs": "Osmant",
+      "en": "False holly",
+      "pl": "Osmant różnolistny",
+      "de": "Duftblüte",
+      "es": "Osmanthus",
+      "fr": "Osmanthe",
+      "pt": "Osmanthus",
+      "it": "Osmanto",
+      "nl": "Schijnhulst",
+      "tr": "Yalancı çobanpüskülü"
+    },
+    "imageAsset": "assets/image/osmanthus_heterophyllus.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      9,
+      10
+    ],
+    "heightMaxCm": 300,
+    "hardinessMinC": -15,
+    "aliases": [
+      "Osmanthus",
+      "False holly"
+    ],
+    "variety": "Goshiki"
+  },
+  {
+    "id": "139",
+    "name": "Paeonia lactiflora",
+    "localized": {
+      "sk": "Pivonka",
+      "cs": "Pivoňka",
+      "en": "Peony",
+      "pl": "Piwonia chińska",
+      "de": "Pfingstrose",
+      "es": "Peonía",
+      "fr": "Pivoine",
+      "pt": "Peónia",
+      "it": "Peonia",
+      "nl": "Pioenroos",
+      "tr": "Şakayık"
+    },
+    "imageAsset": "assets/image/paeonia_lactiflora.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 100,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Paeonia",
+      "Peony"
+    ],
+    "variety": "Sarah Bernhardt"
+  },
+  {
+    "id": "140",
+    "name": "Panicum virgatum",
+    "localized": {
+      "sk": "Proso",
+      "cs": "Proso prutnaté",
+      "en": "Switchgrass",
+      "pl": "Proso rózgowate",
+      "de": "Rutenhirse",
+      "es": "Pasto varilla",
+      "fr": "Panic érigé",
+      "pt": "Panicum",
+      "it": "Panicum",
+      "nl": "Vingergras",
+      "tr": "Dallı darı"
+    },
+    "imageAsset": "assets/image/panicum_virgatum.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "heightMaxCm": 150,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Panicum",
+      "Switchgrass"
+    ],
+    "variety": "Northwind"
+  },
+  {
+    "id": "141",
+    "name": "Papaver orientale",
+    "localized": {
+      "sk": "Mak",
+      "cs": "Mák",
+      "en": "Oriental poppy",
+      "pl": "Mak wschodni",
+      "de": "Türkenmohn",
+      "es": "Amapola oriental",
+      "fr": "Pavot d'Orient",
+      "pt": "Papoila oriental",
+      "it": "Papavero orientale",
+      "nl": "Oosterse papaver",
+      "tr": "Doğu gelinciği"
+    },
+    "imageAsset": "assets/image/papaver_orientale.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "red"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 90,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Papaver",
+      "Oriental poppy"
+    ],
+    "variety": "Beauty of Livermere"
+  },
+  {
+    "id": "142",
+    "name": "Parrotia persica",
+    "localized": {
+      "sk": "Parócia",
+      "cs": "Parocie",
+      "en": "Persian ironwood",
+      "pl": "Parocja perska",
+      "de": "Eisenholzbaum",
+      "es": "Árbol de hierro persa",
+      "fr": "Parrotie de Perse",
+      "pt": "Árvore-de-ferro",
+      "it": "Parrotia persiana",
+      "nl": "Perzisch ijzerhout",
+      "tr": "İran demirağacı"
+    },
+    "imageAsset": "assets/image/parrotia_persica.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "red"
+    ],
+    "bloomMonths": [
+      2,
+      3
+    ],
+    "heightMaxCm": 800,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Parrotia",
+      "Persian ironwood"
+    ],
+    "variety": "Persian Spire"
+  },
+  {
+    "id": "143",
+    "name": "Parthenocissus quinquefolia",
+    "localized": {
+      "sk": "Pavinič",
+      "cs": "Přísavník",
+      "en": "Virginia creeper",
+      "pl": "Winobluszcz pięciolistkowy",
+      "de": "Wilder Wein",
+      "es": "Parra virgen",
+      "fr": "Vigne vierge",
+      "pt": "Vinha-virgem",
+      "it": "Vite americana",
+      "nl": "Wilde wingerd",
+      "tr": "Amerikan sarmaşığı"
+    },
+    "imageAsset": "assets/image/parthenocissus_quinquefolia.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "low",
+    "flowerColors": [],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 1500,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Parthenocissus",
+      "Virginia creeper"
+    ],
+    "variety": "Engelmannii"
+  },
+  {
+    "id": "144",
+    "name": "Pennisetum alopecuroides",
+    "localized": {
+      "sk": "Perovec",
+      "cs": "Dochan",
+      "en": "Fountain grass",
+      "pl": "Rozplenica japońska",
+      "de": "Lampenputzergras",
+      "es": "Pasto plumero",
+      "fr": "Herbe aux écouvillons",
+      "pt": "Capim-do-texas",
+      "it": "Penniseto",
+      "nl": "Lampenpoetsersgras",
+      "tr": "Fıskiye otu"
+    },
+    "imageAsset": "assets/image/pennisetum_alopecuroides.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "heightMaxCm": 100,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Pennisetum",
+      "Fountain grass"
+    ],
+    "variety": "Hameln"
+  },
+  {
+    "id": "145",
+    "name": "Penstemon digitalis",
+    "localized": {
+      "sk": "Dráčik",
+      "cs": "Dračík",
+      "en": "Beardtongue",
+      "pl": "Penstemon",
+      "de": "Bartfaden",
+      "es": "Penstemon",
+      "fr": "Galane",
+      "pt": "Penstemon",
+      "it": "Penstemon",
+      "nl": "Schildpadbloem",
+      "tr": "Sakal dili"
+    },
+    "imageAsset": "assets/image/penstemon_digitalis.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 120,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Penstemon",
+      "Beardtongue"
+    ],
+    "variety": "Husker Red"
+  },
+  {
+    "id": "146",
+    "name": "Perovskia atriplicifolia",
+    "localized": {
+      "sk": "Perovskia",
+      "cs": "Perovskie",
+      "en": "Russian sage",
+      "pl": "Perowskia łobodolistna",
+      "de": "Blauraute",
+      "es": "Salvia rusa",
+      "fr": "Sauge de Russie",
+      "pt": "Sálvia-russa",
+      "it": "Salvia russa",
+      "nl": "Russische salie",
+      "tr": "Rus adaçayı"
+    },
+    "imageAsset": "assets/image/perovskia_atriplicifolia.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "blue"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "heightMaxCm": 120,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Perovskia",
+      "Russian sage"
+    ],
+    "variety": "Blue Spire"
+  },
+  {
+    "id": "147",
+    "name": "Phlox paniculata",
+    "localized": {
+      "sk": "Flox",
+      "cs": "Plamenka",
+      "en": "Garden phlox",
+      "pl": "Floks wiechowaty",
+      "de": "Flammenblume",
+      "es": "Flox",
+      "fr": "Phlox paniculé",
+      "pt": "Flox",
+      "it": "Flox",
+      "nl": "Vlambloem",
+      "tr": "Bahçe floksu"
+    },
+    "imageAsset": "assets/image/phlox_paniculata.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "heightMaxCm": 100,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Phlox",
+      "Garden phlox"
+    ],
+    "variety": "David"
+  },
+  {
+    "id": "148",
+    "name": "Photinia × fraseri",
+    "localized": {
+      "sk": "Červienka",
+      "cs": "Blýskalka",
+      "en": "Red tip photinia",
+      "pl": "Fotinia Frasera",
+      "de": "Glanzmispel",
+      "es": "Fotinia",
+      "fr": "Photinia",
+      "pt": "Fotínia",
+      "it": "Fotinia",
+      "nl": "Glansmispel",
+      "tr": "Kırmızı uçlu fotinya"
+    },
+    "imageAsset": "assets/image/photinia_fraseri.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      5
+    ],
+    "heightMaxCm": 400,
+    "hardinessMinC": -15,
+    "aliases": [
+      "Photinia",
+      "Red tip photinia"
+    ],
+    "variety": "Red Robin"
+  },
+  {
+    "id": "149",
+    "name": "Physostegia virginiana",
+    "localized": {
+      "sk": "Fyzostégia",
+      "cs": "Klanopraška",
+      "en": "Obedient plant",
+      "pl": "Odętka wirginijska",
+      "de": "Gelenkblume",
+      "es": "Fisostegia",
+      "fr": "Physostégie",
+      "pt": "Fisostégia",
+      "it": "Fisostegia",
+      "nl": "Scharnierbloem",
+      "tr": "İtaatkâr bitki"
+    },
+    "imageAsset": "assets/image/physostegia_virginiana.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "heightMaxCm": 100,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Physostegia",
+      "Obedient plant"
+    ],
+    "variety": "Vivid"
+  },
+  {
+    "id": "150",
+    "name": "Polemonium caeruleum",
+    "localized": {
+      "sk": "Vojnovka",
+      "cs": "Jirnice",
+      "en": "Jacob's ladder",
+      "pl": "Wielosił błękitny",
+      "de": "Jakobsleiter",
+      "es": "Escalera de Jacob",
+      "fr": "Polémoine bleue",
+      "pt": "Escada-de-Jacó",
+      "it": "Polemonio",
+      "nl": "Jakobsladder",
+      "tr": "Yakup merdiveni"
+    },
+    "imageAsset": "assets/image/polemonium_caeruleum.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "blue"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 80,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Polemonium",
+      "Jacob's ladder"
+    ],
+    "variety": "Brise d'Anjou"
+  },
+  {
+    "id": "151",
+    "name": "Poncirus trifoliata",
+    "localized": {
+      "sk": "Citrónovníkovec",
+      "cs": "Citronečník",
+      "en": "Hardy orange",
+      "pl": "Pomarańcza trójlistkowa",
+      "de": "Dreiblättrige Orange",
+      "es": "Naranjo trifoliado",
+      "fr": "Oranger trifolié",
+      "pt": "Laranjeira trifoliada",
+      "it": "Arancio trifogliato",
+      "nl": "Driebladige sinaasappel",
+      "tr": "Üç yapraklı portakal"
+    },
+    "imageAsset": "assets/image/poncirus_trifoliata.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 300,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Poncirus",
+      "Hardy orange"
+    ],
+    "variety": "Flying Dragon"
+  },
+  {
+    "id": "152",
+    "name": "Prunus laurocerasus",
+    "localized": {
+      "sk": "Vavrínovec",
+      "cs": "Bobkovišeň",
+      "en": "Cherry laurel",
+      "pl": "Laurowiśnia wschodnia",
+      "de": "Kirschlorbeer",
+      "es": "Laurel cerezo",
+      "fr": "Laurier-cerise",
+      "pt": "Loureiro-cereja",
+      "it": "Lauroceraso",
+      "nl": "Laurierkers",
+      "tr": "Karayemiş"
+    },
+    "imageAsset": "assets/image/prunus_laurocerasus.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 400,
+    "hardinessMinC": -20,
+    "aliases": [
+      "Prunus",
+      "Cherry laurel"
+    ],
+    "variety": "Otto Luyken"
+  },
+  {
+    "id": "153",
+    "name": "Rheum rhabarbarum",
+    "localized": {
+      "sk": "Rebarbora",
+      "cs": "Rebarbora",
+      "en": "Rhubarb",
+      "pl": "Rabarbar",
+      "de": "Rhabarber",
+      "es": "Ruibarbo",
+      "fr": "Rhubarbe",
+      "pt": "Ruibarbo",
+      "it": "Rabarbaro",
+      "nl": "Rabarber",
+      "tr": "Ravent"
+    },
+    "imageAsset": "assets/image/rheum_rhabarbarum.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 120,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Rheum",
+      "Rhubarb"
+    ],
+    "variety": "Victoria"
+  },
+  {
+    "id": "154",
+    "name": "Ribes rubrum",
+    "localized": {
+      "sk": "Ríbezľa",
+      "cs": "Rybíz",
+      "en": "Red currant",
+      "pl": "Porzeczka czerwona",
+      "de": "Rote Johannisbeere",
+      "es": "Grosella roja",
+      "fr": "Groseillier rouge",
+      "pt": "Groselha-vermelha",
+      "it": "Ribes rosso",
+      "nl": "Rode bes",
+      "tr": "Kırmızı frenk üzümü"
+    },
+    "imageAsset": "assets/image/ribes_rubrum.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "green"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 150,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Ribes",
+      "Red currant"
+    ],
+    "variety": "Rovada"
+  },
+  {
+    "id": "155",
+    "name": "Rosa",
+    "localized": {
+      "sk": "Ruža",
+      "cs": "Růže",
+      "en": "Rose",
+      "pl": "Róża",
+      "de": "Rose",
+      "es": "Rosa",
+      "fr": "Rose",
+      "pt": "Rosa",
+      "it": "Rosa",
+      "nl": "Roos",
+      "tr": "Gül"
+    },
+    "imageAsset": "assets/image/rosa.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "red"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "heightMaxCm": 120,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Rosa",
+      "Rose"
+    ],
+    "variety": "Bonica"
+  },
+  {
+    "id": "156",
+    "name": "Rubus idaeus",
+    "localized": {
+      "sk": "Malina",
+      "cs": "Maliník",
+      "en": "Raspberry",
+      "pl": "Malina właściwa",
+      "de": "Himbeere",
+      "es": "Frambuesa",
+      "fr": "Framboisier",
+      "pt": "Framboesa",
+      "it": "Lampone",
+      "nl": "Framboos",
+      "tr": "Ahududu"
+    },
+    "imageAsset": "assets/image/rubus_idaeus.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 180,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Rubus",
+      "Raspberry"
+    ],
+    "variety": "Polka"
+  },
+  {
+    "id": "157",
+    "name": "Rubus fruticosus",
+    "localized": {
+      "sk": "Černica",
+      "cs": "Ostružiník",
+      "en": "Blackberry",
+      "pl": "Jeżyna",
+      "de": "Brombeere",
+      "es": "Mora",
+      "fr": "Mûrier",
+      "pt": "Amora",
+      "it": "Mora",
+      "nl": "Braam",
+      "tr": "Böğürtlen"
+    },
+    "imageAsset": "assets/image/rubus_fruticosus.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 250,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Rubus",
+      "Blackberry"
+    ],
+    "variety": "Loch Ness"
+  },
+  {
+    "id": "158",
+    "name": "Rudbeckia fulgida",
+    "localized": {
+      "sk": "Rudbekia",
+      "cs": "Třapatka",
+      "en": "Black-eyed Susan",
+      "pl": "Rudbekia błyskotliwa",
+      "de": "Sonnenhut",
+      "es": "Rudbeckia",
+      "fr": "Rudbeckie",
+      "pt": "Rudbéquia",
+      "it": "Rudbeckia",
+      "nl": "Zonnehoed",
+      "tr": "Rudbekya"
+    },
+    "imageAsset": "assets/image/rudbeckia_fulgida.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "yellow"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "heightMaxCm": 80,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Rudbeckia",
+      "Black-eyed Susan"
+    ],
+    "variety": "Goldsturm"
+  },
+  {
+    "id": "159",
+    "name": "Sagina subulata",
+    "localized": {
+      "sk": "Machovnička",
+      "cs": "Irský mech",
+      "en": "Irish moss",
+      "pl": "Karmnik ościsty",
+      "de": "Sternmoos",
+      "es": "Musgo irlandés",
+      "fr": "Mousse d'Irlande",
+      "pt": "Musgo-irlandês",
+      "it": "Muschio irlandese",
+      "nl": "Priemvetmuur",
+      "tr": "İrlanda yosunu"
+    },
+    "imageAsset": "assets/image/sagina_subulata.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 5,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Sagina",
+      "Irish moss"
+    ],
+    "variety": ""
+  },
+  {
+    "id": "160",
+    "name": "Salix integra",
+    "localized": {
+      "sk": "Vŕba",
+      "cs": "Vrba",
+      "en": "Willow",
+      "pl": "Wierzba",
+      "de": "Weide",
+      "es": "Sauce",
+      "fr": "Saule",
+      "pt": "Salgueiro",
+      "it": "Salice",
+      "nl": "Wilg",
+      "tr": "Alacalı söğüt"
+    },
+    "imageAsset": "assets/image/salix_integra.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "high",
+    "flowerColors": [],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "heightMaxCm": 250,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Salix",
+      "Willow"
+    ],
+    "variety": "Hakuro Nishiki"
+  },
+  {
+    "id": "161",
+    "name": "Salvia nemorosa",
+    "localized": {
+      "sk": "Šalvia",
+      "cs": "Šalvěj",
+      "en": "Wood sage",
+      "pl": "Szałwia omszona",
+      "de": "Steppen-Salbei",
+      "es": "Salvia de bosque",
+      "fr": "Sauge des bois",
+      "pt": "Sálvia",
+      "it": "Salvia",
+      "nl": "Bossalie",
+      "tr": "Meşe adaçayı"
+    },
+    "imageAsset": "assets/image/salvia_nemorosa.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "purple"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "heightMaxCm": 60,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Salvia",
+      "Wood sage"
+    ],
+    "variety": "Caradonna"
+  },
+  {
+    "id": "162",
+    "name": "Sambucus nigra",
+    "localized": {
+      "sk": "Baza",
+      "cs": "Bez černý",
+      "en": "Black elder",
+      "pl": "Bez czarny",
+      "de": "Schwarzer Holunder",
+      "es": "Saúco negro",
+      "fr": "Sureau noir",
+      "pt": "Sabugueiro",
+      "it": "Sambuco nero",
+      "nl": "Vlier",
+      "tr": "Kara mürver"
+    },
+    "imageAsset": "assets/image/sambucus_nigra.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 500,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Sambucus",
+      "Black elder"
+    ],
+    "variety": "Black Lace"
+  },
+  {
+    "id": "163",
+    "name": "Sanguisorba officinalis",
+    "localized": {
+      "sk": "Krvavec",
+      "cs": "Krvavec",
+      "en": "Great burnet",
+      "pl": "Krwiściąg lekarski",
+      "de": "Großer Wiesenknopf",
+      "es": "Pimpinela mayor",
+      "fr": "Sanguisorbe officinale",
+      "pt": "Pimpinela",
+      "it": "Salvastrella maggiore",
+      "nl": "Grote pimpernel",
+      "tr": "Büyük çayır düğmesi"
+    },
+    "imageAsset": "assets/image/sanguisorba_officinalis.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "red"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "heightMaxCm": 120,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Sanguisorba",
+      "Great burnet"
+    ],
+    "variety": "Tanna"
+  },
+  {
+    "id": "164",
+    "name": "Santolina chamaecyparissus",
+    "localized": {
+      "sk": "Santolina",
+      "cs": "Santolina",
+      "en": "Cotton purple",
+      "pl": "Santolina cyprysikowata",
+      "de": "Heiligenkraut",
+      "es": "Santolina",
+      "fr": "Santoline",
+      "pt": "Santolina",
+      "it": "Santolina",
+      "nl": "Heiligenbloem",
+      "tr": "Santolina"
+    },
+    "imageAsset": "assets/image/santolina_chamaecyparissus.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "yellow"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 60,
+    "hardinessMinC": -20,
+    "aliases": [
+      "Santolina",
+      "Cotton purple"
+    ],
+    "variety": ""
+  },
+  {
+    "id": "165",
+    "name": "Satureja montana",
+    "localized": {
+      "sk": "Saturejka",
+      "cs": "Saturejka",
+      "en": "Winter savory",
+      "pl": "Cząber górski",
+      "de": "Bergbohnenkraut",
+      "es": "Ajedrea",
+      "fr": "Sarriette vivace",
+      "pt": "Segurelha",
+      "it": "Santoreggia",
+      "nl": "Bergbonenkruid",
+      "tr": "Kış kekiği"
+    },
+    "imageAsset": "assets/image/satureja_montana.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "heightMaxCm": 40,
+    "hardinessMinC": -20,
+    "aliases": [
+      "Satureja",
+      "Winter savory"
+    ],
+    "variety": ""
+  },
+  {
+    "id": "166",
+    "name": "Scabiosa columbaria",
+    "localized": {
+      "sk": "Hlaváč",
+      "cs": "Hlaváč",
+      "en": "Pincushion flower",
+      "pl": "Driakiew gołębia",
+      "de": "Skabiose",
+      "es": "Escabiosa",
+      "fr": "Scabieuse",
+      "pt": "Escabiosa",
+      "it": "Scabiosa",
+      "nl": "Duifkruid",
+      "tr": "Uyuz otu"
+    },
+    "imageAsset": "assets/image/scabiosa_columbaria.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "blue"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "heightMaxCm": 50,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Scabiosa",
+      "Pincushion flower"
+    ],
+    "variety": "Butterfly Blue"
+  },
+  {
+    "id": "167",
+    "name": "Schisandra chinensis",
+    "localized": {
+      "sk": "Schizandra",
+      "cs": "Klanopraška čínská",
+      "en": "Magnolia vine",
+      "pl": "Cytryniec chiński",
+      "de": "Chinesische Beerentraube",
+      "es": "Schisandra",
+      "fr": "Schisandra",
+      "pt": "Schisandra",
+      "it": "Schisandra",
+      "nl": "Chinese magnoliarank",
+      "tr": "Şizandra"
+    },
+    "imageAsset": "assets/image/schisandra_chinensis.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 600,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Schisandra",
+      "Magnolia vine"
+    ],
+    "variety": "Eastern Prince"
+  },
+  {
+    "id": "168",
+    "name": "Schizachyrium scoparium",
+    "localized": {
+      "sk": "Schizachyrium",
+      "cs": "Vousatec",
+      "en": "Little bluestem",
+      "pl": "Andropogonik wirginijski",
+      "de": "Prärie-Bartgras",
+      "es": "Pasto azul",
+      "fr": "Barbon à balais",
+      "pt": "Capim-azul",
+      "it": "Schizachyrium",
+      "nl": "Prairiegras",
+      "tr": "Küçük mavi sap otu"
+    },
+    "imageAsset": "assets/image/schizachyrium_scoparium.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "heightMaxCm": 120,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Schizachyrium",
+      "Little bluestem"
+    ],
+    "variety": "Standing Ovation"
+  },
+  {
+    "id": "169",
+    "name": "Sedum spectabile",
+    "localized": {
+      "sk": "Rozchodník",
+      "cs": "Rozchodník",
+      "en": "Stonecrop",
+      "pl": "Rozchodnik okazały",
+      "de": "Fetthenne",
+      "es": "Sedum",
+      "fr": "Orpin",
+      "pt": "Sedum",
+      "it": "Sedum",
+      "nl": "Hemelsleutel",
+      "tr": "Dam koruğu"
+    },
+    "imageAsset": "assets/image/sedum_spectabile.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "heightMaxCm": 60,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Sedum",
+      "Stonecrop"
+    ],
+    "variety": "Herbstfreude"
+  },
+  {
+    "id": "170",
+    "name": "Selinum wallichianum",
+    "localized": {
+      "sk": "Olešník",
+      "cs": "Selinum",
+      "en": "Milk parsley",
+      "pl": "Selinum",
+      "de": "Silge",
+      "es": "Selinum",
+      "fr": "Séséli",
+      "pt": "Selinum",
+      "it": "Selinum",
+      "nl": "Melkkervel",
+      "tr": "Süt maydanozu"
+    },
+    "imageAsset": "assets/image/selinum_wallichianum.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "heightMaxCm": 150,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Selinum",
+      "Milk parsley"
+    ],
+    "variety": ""
+  },
+  {
+    "id": "171",
+    "name": "Sempervivum tectorum",
+    "localized": {
+      "sk": "Skalnica",
+      "cs": "Netřesk",
+      "en": "Houseleek",
+      "pl": "Rojnik murowy",
+      "de": "Hauswurz",
+      "es": "Siempreviva",
+      "fr": "Joubarbe",
+      "pt": "Sempre-viva",
+      "it": "Semprevivo",
+      "nl": "Huislook",
+      "tr": "Dam koruğu"
+    },
+    "imageAsset": "assets/image/sempervivum_tectorum.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 15,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Sempervivum",
+      "Houseleek"
+    ],
+    "variety": "Rubin"
+  },
+  {
+    "id": "172",
+    "name": "Silphium perfoliatum",
+    "localized": {
+      "sk": "Silfia",
+      "cs": "Silfie",
+      "en": "Cup plant",
+      "pl": "Silfia przerośnięta",
+      "de": "Becherpflanze",
+      "es": "Silfio",
+      "fr": "Silphie perfoliée",
+      "pt": "Silfio",
+      "it": "Silfio",
+      "nl": "Bekerkruid",
+      "tr": "Kupa bitkisi"
+    },
+    "imageAsset": "assets/image/silphium_perfoliatum.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "yellow"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "heightMaxCm": 250,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Silphium",
+      "Cup plant"
+    ],
+    "variety": ""
+  },
+  {
+    "id": "173",
+    "name": "Skimmia japonica",
+    "localized": {
+      "sk": "Skímia",
+      "cs": "Skimie",
+      "en": "Japanese skimmia",
+      "pl": "Skimia japońska",
+      "de": "Skimmie",
+      "es": "Skimmia",
+      "fr": "Skimmia du Japon",
+      "pt": "Skimmia",
+      "it": "Skimmia",
+      "nl": "Skimmia",
+      "tr": "Japon skimmiyası"
+    },
+    "imageAsset": "assets/image/skimmia_japonica.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 120,
+    "hardinessMinC": -20,
+    "aliases": [
+      "Skimmia",
+      "Japanese skimmia"
+    ],
+    "variety": "Rubella"
+  },
+  {
+    "id": "174",
+    "name": "Sorgastrum nutans",
+    "localized": {
+      "sk": "Indiánska tráva",
+      "cs": "Indiánská tráva",
+      "en": "Indian grass",
+      "pl": "Trzcinnik preriowy",
+      "de": "Goldbartgras",
+      "es": "Hierba india",
+      "fr": "Herbe indienne",
+      "pt": "Capim-indiano",
+      "it": "Erba indiana",
+      "nl": "Indiangras",
+      "tr": "Hint otu"
+    },
+    "imageAsset": "assets/image/sorgastrum_nutans.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "heightMaxCm": 180,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Sorgastrum",
+      "Indian grass"
+    ],
+    "variety": "Indian Steel"
+  },
+  {
+    "id": "175",
+    "name": "Stipa tenuissima",
+    "localized": {
+      "sk": "Kavyľ",
+      "cs": "Kavyl",
+      "en": "Mexican feather grass",
+      "pl": "Ostnica cieniutka",
+      "de": "Federgras",
+      "es": "Pluma mexicana",
+      "fr": "Cheveux d'ange",
+      "pt": "Capim-pluma",
+      "it": "Stipa",
+      "nl": "Vedergras",
+      "tr": "Meksika tüy otu"
+    },
+    "imageAsset": "assets/image/stipa_tenuissima.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 70,
+    "hardinessMinC": -20,
+    "aliases": [
+      "Stipa",
+      "Mexican feather grass"
+    ],
+    "variety": "Pony Tails"
+  },
+  {
+    "id": "176",
+    "name": "Symphoricarpos albus",
+    "localized": {
+      "sk": "Imelovník",
+      "cs": "Pámelník",
+      "en": "Snowberry",
+      "pl": "Śnieguliczka biała",
+      "de": "Knallerbsenstrauch",
+      "es": "Sinforicarpo",
+      "fr": "Symphorine",
+      "pt": "Sinforina",
+      "it": "Sinforicarpo",
+      "nl": "Sneeuwbes",
+      "tr": "Kar yemişi"
+    },
+    "imageAsset": "assets/image/symphoricarpos_albus.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 150,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Symphoricarpos",
+      "Snowberry"
+    ],
+    "variety": "Magical Galaxy"
+  },
+  {
+    "id": "177",
+    "name": "Syringa vulgaris",
+    "localized": {
+      "sk": "Orgován",
+      "cs": "Šeřík",
+      "en": "Common lilac",
+      "pl": "Lilak pospolity",
+      "de": "Flieder",
+      "es": "Lila común",
+      "fr": "Lilas commun",
+      "pt": "Lilás",
+      "it": "Lillà",
+      "nl": "Sering",
+      "tr": "Leylak"
+    },
+    "imageAsset": "assets/image/syringa_vulgaris.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "purple"
+    ],
+    "bloomMonths": [
+      5
+    ],
+    "heightMaxCm": 400,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Syringa",
+      "Common lilac"
+    ],
+    "variety": "Beauty of Moscow"
+  },
+  {
+    "id": "178",
+    "name": "Taxus baccata",
+    "localized": {
+      "sk": "Tis",
+      "cs": "Tis",
+      "en": "English yew",
+      "pl": "Cis pospolity",
+      "de": "Eibe",
+      "es": "Tejo",
+      "fr": "If commun",
+      "pt": "Teixo",
+      "it": "Tasso",
+      "nl": "Venijnboom",
+      "tr": "Porsuk ağacı"
+    },
+    "imageAsset": "assets/image/taxus_baccata.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [],
+    "bloomMonths": [],
+    "heightMaxCm": 1000,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Taxus",
+      "English yew"
+    ],
+    "variety": "Fastigiata"
+  },
+  {
+    "id": "179",
+    "name": "Thalictrum rochebrunianum",
+    "localized": {
+      "sk": "Žltuška",
+      "cs": "Žluťucha",
+      "en": "Meadow rue",
+      "pl": "Rutewka",
+      "de": "Wiesenraute",
+      "es": "Ruda de prado",
+      "fr": "Pigamon",
+      "pt": "Arruda-dos-prados",
+      "it": "Pigamo",
+      "nl": "Ruit",
+      "tr": "Çayır sedefotu"
+    },
+    "imageAsset": "assets/image/thalictrum_rochebrunianum.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "purple"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "heightMaxCm": 180,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Thalictrum",
+      "Meadow rue"
+    ],
+    "variety": ""
+  },
+  {
+    "id": "180",
+    "name": "Thymus serpyllum",
+    "localized": {
+      "sk": "Dúška",
+      "cs": "Mateřídouška",
+      "en": "Wild thyme",
+      "pl": "Macierzanka piaskowa",
+      "de": "Sand-Thymian",
+      "es": "Tomillo rastrero",
+      "fr": "Thym serpolet",
+      "pt": "Tomilho-serpão",
+      "it": "Timo serpillo",
+      "nl": "Kruiptijm",
+      "tr": "Yabani kekik"
+    },
+    "imageAsset": "assets/image/thymus_serpyllum.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 10,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Thymus",
+      "Wild thyme"
+    ],
+    "variety": "Coccineus"
+  },
+  {
+    "id": "181",
+    "name": "Tiarella cordifolia",
+    "localized": {
+      "sk": "Tiarela",
+      "cs": "Mitrovnička",
+      "en": "Foamflower",
+      "pl": "Tiarella sercolistna",
+      "de": "Schaumblüte",
+      "es": "Tiarela",
+      "fr": "Tiarelle",
+      "pt": "Tiarela",
+      "it": "Tiarella",
+      "nl": "Schuimbloem",
+      "tr": "Köpük çiçeği"
+    },
+    "imageAsset": "assets/image/tiarella_cordifolia.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 30,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Tiarella",
+      "Foamflower"
+    ],
+    "variety": "Spring Symphony"
+  },
+  {
+    "id": "182",
+    "name": "Trachelospermum jasminoides",
+    "localized": {
+      "sk": "Jazmínovec",
+      "cs": "Jasmínovec",
+      "en": "Star jasmine",
+      "pl": "Jaśmin gwiazdowy",
+      "de": "Sternjasmin",
+      "es": "Jazmín estrellado",
+      "fr": "Jasmin étoilé",
+      "pt": "Jasmim-estrela",
+      "it": "Falso gelsomino",
+      "nl": "Sterjasmijn",
+      "tr": "Yıldız yasemini"
+    },
+    "imageAsset": "assets/image/trachelospermum_jasminoides.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 600,
+    "hardinessMinC": -15,
+    "aliases": [
+      "Trachelospermum",
+      "Star jasmine"
+    ],
+    "variety": ""
+  },
+  {
+    "id": "183",
+    "name": "Trachycarpus fortunei",
+    "localized": {
+      "sk": "Palma konopná",
+      "cs": "Žumara",
+      "en": "Windmill palm",
+      "pl": "Szorstkowiec Fortunego",
+      "de": "Hanfpalme",
+      "es": "Palmera excelsa",
+      "fr": "Palmier chanvre",
+      "pt": "Palmeira-moinho",
+      "it": "Palma di Fortune",
+      "nl": "Henneppalm",
+      "tr": "Yelpaze palmiyesi"
+    },
+    "imageAsset": "assets/image/trachycarpus_fortunei.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "yellow"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 500,
+    "hardinessMinC": -15,
+    "aliases": [
+      "Trachycarpus",
+      "Windmill palm"
+    ],
+    "variety": ""
+  },
+  {
+    "id": "184",
+    "name": "Tricyrtis hirta",
+    "localized": {
+      "sk": "Ropušník",
+      "cs": "Tricyrtis",
+      "en": "Toad lily",
+      "pl": "Trójsklepka owłosiona",
+      "de": "Krötenlilie",
+      "es": "Lirio sapo",
+      "fr": "Lis crapaud",
+      "pt": "Lírio-sapo",
+      "it": "Giglio rospo",
+      "nl": "Paddenlelie",
+      "tr": "Kurbağa zambağı"
+    },
+    "imageAsset": "assets/image/tricyrtis_hirta.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "purple"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "heightMaxCm": 80,
+    "hardinessMinC": -20,
+    "aliases": [
+      "Tricyrtis",
+      "Toad lily"
+    ],
+    "variety": "Tojen"
+  },
+  {
+    "id": "185",
+    "name": "Vaccinium corymbosum",
+    "localized": {
+      "sk": "Čučoriedka",
+      "cs": "Borůvka chocholičnatá",
+      "en": "Blueberry",
+      "pl": "Borówka amerykańska",
+      "de": "Kulturheidelbeere",
+      "es": "Arándano",
+      "fr": "Myrtille",
+      "pt": "Mirtilo",
+      "it": "Mirtillo",
+      "nl": "Blauwe bes",
+      "tr": "Yaban mersini"
+    },
+    "imageAsset": "assets/image/vaccinium_corymbosum.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      5
+    ],
+    "heightMaxCm": 180,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Vaccinium",
+      "Blueberry"
+    ],
+    "variety": "Bluecrop"
+  },
+  {
+    "id": "186",
+    "name": "Verbena bonariensis",
+    "localized": {
+      "sk": "Železník",
+      "cs": "Sporýš",
+      "en": "Tall verbena",
+      "pl": "Werbena patagońska",
+      "de": "Patagonisches Eisenkraut",
+      "es": "Verbena de Buenos Aires",
+      "fr": "Verveine de Buenos Aires",
+      "pt": "Verbena-de-Buenos-Aires",
+      "it": "Verbena bonariensis",
+      "nl": "IJzerhard",
+      "tr": "Uzun verbena"
+    },
+    "imageAsset": "assets/image/verbena_bonariensis.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "purple"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "heightMaxCm": 150,
+    "hardinessMinC": -10,
+    "aliases": [
+      "Verbena",
+      "Tall verbena"
+    ],
+    "variety": "Lollipop"
+  },
+  {
+    "id": "187",
+    "name": "Veronica spicata",
+    "localized": {
+      "sk": "Veronika",
+      "cs": "Rozrazil",
+      "en": "Speedwell",
+      "pl": "Przetacznik kłosowy",
+      "de": "Ehrenpreis",
+      "es": "Verónica",
+      "fr": "Véronique",
+      "pt": "Verónica",
+      "it": "Veronica",
+      "nl": "Ereprijs",
+      "tr": "Başaklı veronika"
+    },
+    "imageAsset": "assets/image/veronica_spicata.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "blue"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "heightMaxCm": 50,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Veronica",
+      "Speedwell"
+    ],
+    "variety": "Royal Candles"
+  },
+  {
+    "id": "188",
+    "name": "Veronicastrum virginicum",
+    "localized": {
+      "sk": "Veronikovec",
+      "cs": "Rozrazilovec",
+      "en": "Culver's root",
+      "pl": "Przetacznikowiec wirginijski",
+      "de": "Etagen-Ehrenpreis",
+      "es": "Veronicastrum",
+      "fr": "Véronicastrum",
+      "pt": "Veronicastrum",
+      "it": "Veronicastrum",
+      "nl": "Virginische ereprijs",
+      "tr": "Veronicastrum"
+    },
+    "imageAsset": "assets/image/veronicastrum_virginicum.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "heightMaxCm": 160,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Veronicastrum",
+      "Culver's root"
+    ],
+    "variety": "Album"
+  },
+  {
+    "id": "189",
+    "name": "Viburnum plicatum",
+    "localized": {
+      "sk": "Kalina",
+      "cs": "Kalina",
+      "en": "Japanese snowball",
+      "pl": "Kalina japońska",
+      "de": "Japanischer Schneeball",
+      "es": "Viburno japonés",
+      "fr": "Viorne du Japon",
+      "pt": "Viburno japonês",
+      "it": "Viburno giapponese",
+      "nl": "Japanse sneeuwbal",
+      "tr": "Japon kartopu"
+    },
+    "imageAsset": "assets/image/viburnum_plicatum.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 300,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Viburnum",
+      "Japanese snowball"
+    ],
+    "variety": "Mariesii"
+  },
+  {
+    "id": "190",
+    "name": "Vinca minor",
+    "localized": {
+      "sk": "Zimozeleň",
+      "cs": "Barvínek",
+      "en": "Periwinkle",
+      "pl": "Barwinek pospolity",
+      "de": "Immergrün",
+      "es": "Vinca",
+      "fr": "Pervenche",
+      "pt": "Pervinca",
+      "it": "Pervinca",
+      "nl": "Maagdenpalm",
+      "tr": "Küçük cezayir menekşesi"
+    },
+    "imageAsset": "assets/image/vinca_minor.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "blue"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 15,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Vinca",
+      "Periwinkle"
+    ],
+    "variety": "Ralph Shugert"
+  },
+  {
+    "id": "211",
+    "name": "Galanthus nivalis",
+    "localized": {
+      "sk": "Snežienka",
+      "cs": "Sněženka",
+      "en": "Snowdrop",
+      "pl": "Przebiśnieg",
+      "de": "Schneeglöckchen",
+      "es": "Campanilla de invierno",
+      "fr": "Perce-neige",
+      "pt": "Gota-de-neve",
+      "it": "Bucaneve",
+      "nl": "Sneeuwklokje",
+      "tr": "Kardelen"
+    },
+    "imageAsset": "assets/image/galanthus_nivalis.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      2,
+      3
+    ],
+    "heightMaxCm": 15,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Galanthus",
+      "Snowdrop"
+    ],
+    "variety": "Flore Pleno"
+  },
+  {
+    "id": "212",
+    "name": "Persicaria amplexicaulis",
+    "localized": {
+      "sk": "Stavikrv",
+      "cs": "Rdesno",
+      "en": "Mountain fleece",
+      "pl": "Rdest himalajski",
+      "de": "Kerzenknöterich",
+      "es": "Persicaria",
+      "fr": "Renouée",
+      "pt": "Persicária",
+      "it": "Persicaria",
+      "nl": "Duizendknoop",
+      "tr": "Dağ persicaria"
+    },
+    "imageAsset": "assets/image/persicaria_amplexicaulis.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "red"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "heightMaxCm": 120,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Persicaria"
+    ],
+    "variety": "Firetail"
+  },
+  {
+    "id": "213",
+    "name": "Philadelphus coronarius",
+    "localized": {
+      "sk": "Pajazmín",
+      "cs": "Pustoryl",
+      "en": "Mock orange",
+      "pl": "Jaśminowiec",
+      "de": "Pfeifenstrauch",
+      "es": "Celinda",
+      "fr": "Seringat",
+      "pt": "Filadelfo",
+      "it": "Filadelfo",
+      "nl": "Boerenjasmijn",
+      "tr": "Yalancı portakal"
+    },
+    "imageAsset": "assets/image/philadelphus_coronarius.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 300,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Philadelphus",
+      "Mock orange"
+    ],
+    "variety": "Virginal"
+  },
+  {
+    "id": "214",
+    "name": "Pittosporum tenuifolium",
+    "localized": {
+      "sk": "Pittosporum",
+      "cs": "Pitosporum",
+      "en": "Kohuhu",
+      "pl": "Pitosporum",
+      "de": "Klebsame",
+      "es": "Pitosporo",
+      "fr": "Pittospore",
+      "pt": "Pitosporo",
+      "it": "Pittosporo",
+      "nl": "Pittosporum",
+      "tr": "Pittosporum"
+    },
+    "imageAsset": "assets/image/pittosporum_tenuifolium.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "purple"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 250,
+    "hardinessMinC": -10,
+    "aliases": [
+      "Pittosporum"
+    ],
+    "variety": "Golf Ball"
+  },
+  {
+    "id": "215",
+    "name": "Pulmonaria saccharata",
+    "localized": {
+      "sk": "Pľúcnik",
+      "cs": "Plicník",
+      "en": "Lungwort",
+      "pl": "Miodunka plamista",
+      "de": "Lungenkraut",
+      "es": "Pulmonaria",
+      "fr": "Pulmonaire",
+      "pt": "Pulmonária",
+      "it": "Polmonaria",
+      "nl": "Longkruid",
+      "tr": "Akciğer otu"
+    },
+    "imageAsset": "assets/image/pulmonaria_saccharata.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "blue",
+      "pink"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "heightMaxCm": 30,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Pulmonaria"
+    ],
+    "variety": "Mrs Moon"
+  },
+  {
+    "id": "216",
+    "name": "Rhododendron catawbiense",
+    "localized": {
+      "sk": "Rododendron",
+      "cs": "Pěnišník",
+      "en": "Rhododendron",
+      "pl": "Różanecznik",
+      "de": "Rhododendron",
+      "es": "Rododendro",
+      "fr": "Rhododendron",
+      "pt": "Rododendro",
+      "it": "Rododendro",
+      "nl": "Rododendron",
+      "tr": "Ormangülü"
+    },
+    "imageAsset": "assets/image/rhododendron_catawbiense.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "high",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      5
+    ],
+    "heightMaxCm": 250,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Rhododendron"
+    ],
+    "variety": "Cunningham's White"
+  },
+  {
+    "id": "217",
+    "name": "Spiraea japonica",
+    "localized": {
+      "sk": "Tavoľník",
+      "cs": "Tavolník",
+      "en": "Japanese spirea",
+      "pl": "Tawuła japońska",
+      "de": "Japanischer Spierstrauch",
+      "es": "Espirea japonesa",
+      "fr": "Spirée du Japon",
+      "pt": "Espireia-japonesa",
+      "it": "Spirea giapponese",
+      "nl": "Japanse spirea",
+      "tr": "Japon spireası"
+    },
+    "imageAsset": "assets/image/spiraea_japonica.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 80,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Spiraea"
+    ],
+    "variety": "Goldflame"
+  },
+  {
+    "id": "218",
+    "name": "Stachys byzantina",
+    "localized": {
+      "sk": "Čistec",
+      "cs": "Čistec",
+      "en": "Lamb's ear",
+      "pl": "Czyściec wełnisty",
+      "de": "Wollziest",
+      "es": "Oreja de cordero",
+      "fr": "Oreille d'ours",
+      "pt": "Orelha-de-cordeiro",
+      "it": "Stachys",
+      "nl": "Ezelsoor",
+      "tr": "Kuzu kulağı"
+    },
+    "imageAsset": "assets/image/stachys_byzantina.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "purple"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 40,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Stachys",
+      "Lamb's ear"
+    ],
+    "variety": "Silver Carpet"
+  },
+  {
+    "id": "219",
+    "name": "Tamarix ramosissima",
+    "localized": {
+      "sk": "Tamariška",
+      "cs": "Tamarix",
+      "en": "Tamarisk",
+      "pl": "Tamaryszek",
+      "de": "Tamariske",
+      "es": "Taray",
+      "fr": "Tamaris",
+      "pt": "Tamargueira",
+      "it": "Tamerice",
+      "nl": "Tamarisk",
+      "tr": "Ilgın"
+    },
+    "imageAsset": "assets/image/tamarix_ramosissima.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 400,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Tamarix"
+    ],
+    "variety": "Pink Cascade"
+  },
+  {
+    "id": "220",
+    "name": "Tulipa gesneriana",
+    "localized": {
+      "sk": "Tulipán",
+      "cs": "Tulipán",
+      "en": "Tulip",
+      "pl": "Tulipan",
+      "de": "Tulpe",
+      "es": "Tulipán",
+      "fr": "Tulipe",
+      "pt": "Tulipa",
+      "it": "Tulipano",
+      "nl": "Tulp",
+      "tr": "Lale"
+    },
+    "imageAsset": "assets/image/tulipa_gesneriana.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "purple"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 60,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Tulipa"
+    ],
+    "variety": "Queen of Night"
+  },
+  {
+    "id": "221",
+    "name": "Viola odorata",
+    "localized": {
+      "sk": "Fialka",
+      "cs": "Violka",
+      "en": "Sweet violet",
+      "pl": "Fiołek wonny",
+      "de": "Duftveilchen",
+      "es": "Violeta olorosa",
+      "fr": "Violette odorante",
+      "pt": "Violeta-doce",
+      "it": "Viola mammola",
+      "nl": "Maarts viooltje",
+      "tr": "Kokulu menekşe"
+    },
+    "imageAsset": "assets/image/viola_odorata.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "purple"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "heightMaxCm": 15,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Viola",
+      "Sweet violet"
+    ],
+    "variety": "Queen Charlotte"
+  },
+  {
+    "id": "222",
+    "name": "Waldsteinia ternata",
+    "localized": {
+      "sk": "Valdštajnka",
+      "cs": "Mochnička",
+      "en": "Barren strawberry",
+      "pl": "Gajowiec trójlistkowy",
+      "de": "Golderdbeere",
+      "es": "Fresa estéril",
+      "fr": "Fraisier doré",
+      "pt": "Morango-dourado",
+      "it": "Fragolina dorata",
+      "nl": "Goudaardbei",
+      "tr": "Waldsteinia"
+    },
+    "imageAsset": "assets/image/waldsteinia_ternata.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "yellow"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "heightMaxCm": 15,
+    "hardinessMinC": -35,
+    "aliases": [
+      "Waldsteinia",
+      "Barren strawberry"
+    ],
+    "variety": ""
+  },
+  {
+    "id": "223",
+    "name": "Weigela florida",
+    "localized": {
+      "sk": "Vajgela",
+      "cs": "Vajgélie",
+      "en": "Weigela",
+      "pl": "Krzewuszka cudowna",
+      "de": "Weigelie",
+      "es": "Weigela",
+      "fr": "Weigélia",
+      "pt": "Weigela",
+      "it": "Weigela",
+      "nl": "Weigelia",
+      "tr": "Weigela"
+    },
+    "imageAsset": "assets/image/weigela_florida.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 250,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Weigela",
+      "Weigela"
+    ],
+    "variety": "Nana Variegata"
+  },
+  {
+    "id": "224",
+    "name": "Wisteria sinensis",
+    "localized": {
+      "sk": "Vistéria",
+      "cs": "Vistárie",
+      "en": "Chinese wisteria",
+      "pl": "Glicynia chińska",
+      "de": "Blauregen",
+      "es": "Glicinia",
+      "fr": "Glycine",
+      "pt": "Glicínia",
+      "it": "Glicine",
+      "nl": "Blauwe regen",
+      "tr": "Çin mor salkımı"
+    },
+    "imageAsset": "assets/image/wisteria_sinensis.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "purple"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "heightMaxCm": 1000,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Wisteria",
+      "Chinese wisteria"
+    ],
+    "variety": "Prolific"
+  },
+  {
+    "id": "225",
+    "name": "Yucca filamentosa",
+    "localized": {
+      "sk": "Juka",
+      "cs": "Juka vláknitá",
+      "en": "Adam's needle",
+      "pl": "Juka karolińska",
+      "de": "Palmlilie",
+      "es": "Yuca filamentosa",
+      "fr": "Yucca filamenteux",
+      "pt": "Iúca",
+      "it": "Yucca filamentosa",
+      "nl": "Palmlelie",
+      "tr": "Avize çiçeği"
+    },
+    "imageAsset": "assets/image/yucca_filamentosa.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "low",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 150,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Yucca",
+      "Adam's needle"
+    ],
+    "variety": "Color Guard"
+  },
+  {
+    "id": "226",
+    "name": "Zantedeschia aethiopica",
+    "localized": {
+      "sk": "Kala",
+      "cs": "Kala",
+      "en": "Calla lily",
+      "pl": "Kalia etiopska",
+      "de": "Zimmerkalla",
+      "es": "Cala",
+      "fr": "Arum d'Éthiopie",
+      "pt": "Copo-de-leite",
+      "it": "Calla",
+      "nl": "Aronskelk",
+      "tr": "Kala zambağı"
+    },
+    "imageAsset": "assets/image/zantedeschia_aethiopica.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "high",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 100,
+    "hardinessMinC": -5,
+    "aliases": [
+      "Zantedeschia",
+      "Calla lily"
+    ],
+    "variety": "Crowborough"
+  },
+  {
+    "id": "227",
+    "name": "Hydrangea macrophylla",
+    "localized": {
+      "sk": "Hortenzia veľkolistá",
+      "cs": "Hortenzie velkolistá",
+      "en": "Bigleaf hydrangea",
+      "pl": "Hortensja ogrodowa",
+      "de": "Bauernhortensie",
+      "es": "Hortensia de hoja grande",
+      "fr": "Hortensia à grandes feuilles",
+      "pt": "Hortênsia",
+      "it": "Ortensia",
+      "nl": "Boerenhortensia",
+      "tr": "Büyük yapraklı ortanca"
+    },
+    "imageAsset": "assets/image/hydrangea_macrophylla.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "high",
+    "flowerColors": [
+      "pink",
+      "blue"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "heightMaxCm": 150,
+    "hardinessMinC": -23,
+    "aliases": [
+      "French hydrangea",
+      "Bigleaf hydrangea"
+    ],
+    "variety": "Blue Wave"
+  },
+  {
+    "id": "228",
+    "name": "Hydrangea serrata",
+    "localized": {
+      "sk": "Hortenzia pílovitá",
+      "cs": "Hortenzie pilovitá",
+      "en": "Mountain hydrangea",
+      "pl": "Hortensja piłkowana",
+      "de": "Tellerhortensie",
+      "es": "Hortensia serrata",
+      "fr": "Hortensia des montagnes",
+      "pt": "Hortênsia-das-montanhas",
+      "it": "Ortensia di montagna",
+      "nl": "Berghortensia",
+      "tr": "Dağ ortancası"
+    },
+    "imageAsset": "assets/image/hydrangea_serrata.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade"
+    ],
+    "water": "high",
+    "flowerColors": [
+      "pink"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "heightMaxCm": 150,
+    "hardinessMinC": -25,
+    "aliases": [
+      "Mountain hydrangea"
+    ],
+    "variety": "Cotton Candy"
+  },
+  {
+    "id": "229",
+    "name": "Hydrangea petiolaris",
+    "localized": {
+      "sk": "Hortenzia popínavá",
+      "cs": "Hortenzie řapíkatá",
+      "en": "Climbing hydrangea",
+      "pl": "Hortensja pnąca",
+      "de": "Kletterhortensie",
+      "es": "Hortensia trepadora",
+      "fr": "Hortensia grimpant",
+      "pt": "Hortênsia-trepadeira",
+      "it": "Ortensia rampicante",
+      "nl": "Klimhortensia",
+      "tr": "Tırmanıcı ortanca"
+    },
+    "imageAsset": "assets/image/hydrangea_petiolaris.webp",
+    "lifecycle": "perennial",
+    "sun": [
+      "partialShade",
+      "shade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "white"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "heightMaxCm": 1000,
+    "hardinessMinC": -30,
+    "aliases": [
+      "Climbing hydrangea"
+    ],
+    "variety": "Miranda"
+  }
+]
