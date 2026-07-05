@@ -16,6 +16,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>TerraMate</title>
 
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
   <style>
     :root {
       --primary: #2f5d3a;
@@ -32,7 +37,7 @@
 
     body {
       margin: 0;
-      font-family: system-ui, sans-serif;
+      font-family: 'Inter', system-ui, sans-serif;
       background: var(--background);
       color: var(--text);
       line-height: 1.6;
@@ -63,6 +68,36 @@
       color: var(--muted);
       font-size: 1.2rem;
       margin-top: 8px;
+    }
+
+    .hero {
+      position: relative;
+      min-height: 560px;
+      background:
+        linear-gradient(rgba(0,0,0,.38), rgba(0,0,0,.28)),
+        url("images/landpage_garden.png") center center / cover no-repeat;
+      display: flex;
+      align-items: flex-end;
+    }
+
+    .hero-content {
+      max-width: 900px;
+      margin: auto;
+      padding: 0 24px 30px;
+      color: white;
+    }
+
+    .hero h1 {
+        font-family: Georgia, serif;
+        font-weight: 700;
+        color: rgba(255,255,255,0.92);
+    }
+
+    .hero p {
+      max-width: 620px;
+      font-size: 1.15rem;
+      margin: 0;
+      color: rgba(255,255,255,0.92);
     }
 
     section {
@@ -109,13 +144,18 @@
 </head>
 <body>
 
-<header>
-  <div class="container">
-    <h1>🌿 TerraMate</h1>
-    <div class="subtitle">
-      Apps for people who love plants.
-    </div>
+<header class="hero">
+
+  <div class="hero-content">
+
+    <h1>Your garden has a memory</h1>
+
+    <p>
+      Remember every season
+    </p>
+
   </div>
+
 </header>
 
 <main class="container">
