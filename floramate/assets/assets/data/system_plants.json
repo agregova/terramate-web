@@ -7756,5 +7756,171 @@
       "Climbing hydrangea"
     ],
     "variety": "Miranda"
+  },
+    {
+    "id": "230",
+    "name": "Calendula officinalis",
+    "localized": {
+      "sk": "Nechtík lekársky",
+      "cs": "Měsíček lékařský",
+      "en": "Pot marigold",
+      "pl": "Nagietek lekarski",
+      "de": "Ringelblume",
+      "es": "Caléndula",
+      "fr": "Souci officinal",
+      "pt": "Calêndula",
+      "it": "Calendula",
+      "nl": "Goudsbloem",
+      "tr": "Aynısafa"
+    },
+    "imageAsset": "assets/image/calendula_officinalis.webp",
+    "lifecycle": "annual",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "yellow",
+      "orange"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "heightMaxCm": 60,
+    "hardinessMinC": 0,
+    "aliases": [
+      "Pot marigold",
+      "Calendula"
+    ],
+    "variety": ""
+  },
+  {
+    "id": "231",
+    "name": "Tagetes patula",
+    "localized": {
+      "sk": "Aksamietnica rozložitá",
+      "cs": "Aksamitník rozkladitý",
+      "en": "French marigold",
+      "pl": "Aksamitka rozpierzchła",
+      "de": "Studentenblume",
+      "es": "Clavel de moro",
+      "fr": "Œillet d'Inde",
+      "pt": "Cravo-de-defunto",
+      "it": "Tagete",
+      "nl": "Afrikaantje",
+      "tr": "Kadife çiçeği"
+    },
+    "imageAsset": "assets/image/tagetes_patula.webp",
+    "lifecycle": "annual",
+    "sun": [
+      "fullSun"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "yellow",
+      "orange",
+      "red"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "heightMaxCm": 50,
+    "hardinessMinC": 0,
+    "aliases": [
+      "French marigold",
+      "Marigold"
+    ],
+    "variety": ""
+  },
+  {
+    "id": "232",
+    "name": "Tropaeolum majus",
+    "localized": {
+      "sk": "Kapucínka väčšia",
+      "cs": "Lichořeřišnice větší",
+      "en": "Garden nasturtium",
+      "pl": "Nasturcja większa",
+      "de": "Große Kapuzinerkresse",
+      "es": "Capuchina",
+      "fr": "Grande capucine",
+      "pt": "Capuchinha",
+      "it": "Nasturzio",
+      "nl": "Oost-Indische kers",
+      "tr": "Latin çiçeği"
+    },
+    "imageAsset": "assets/image/tropaeolum_majus.webp",
+    "lifecycle": "annual",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "yellow",
+      "orange",
+      "red"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "heightMaxCm": 300,
+    "hardinessMinC": 0,
+    "aliases": [
+      "Garden nasturtium",
+      "Nasturtium"
+    ],
+    "variety": ""
+  },
+  {
+    "id": "233",
+    "name": "Borago officinalis",
+    "localized": {
+      "sk": "Borák lekársky",
+      "cs": "Brutnák lékařský",
+      "en": "Borage",
+      "pl": "Ogórecznik lekarski",
+      "de": "Borretsch",
+      "es": "Borraja",
+      "fr": "Bourrache officinale",
+      "pt": "Borragem",
+      "it": "Borragine",
+      "nl": "Bernagie",
+      "tr": "Hodan"
+    },
+    "imageAsset": "assets/image/borago_officinalis.webp",
+    "lifecycle": "annual",
+    "sun": [
+      "fullSun",
+      "partialShade"
+    ],
+    "water": "medium",
+    "flowerColors": [
+      "blue"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "heightMaxCm": 80,
+    "hardinessMinC": 0,
+    "aliases": [
+      "Borage",
+      "Starflower"
+    ],
+    "variety": ""
   }
 ]
