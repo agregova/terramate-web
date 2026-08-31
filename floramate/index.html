@@ -14,7 +14,38 @@
     This is a placeholder for base href that will be replaced by the value of
     the `--base-href` argument provided to `flutter build`.
   -->
-  <base href="/floramate/">
+
+  <!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z87QJ7DY18"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-Z87QJ7DY18');
+
+    </script>
+
+    <!-- Track installed PWA opens -->
+    <script>
+      window.addEventListener('load', function () {
+        const isStandalone =
+          window.matchMedia('(display-mode: standalone)').matches ||
+          window.navigator.standalone === true;
+
+        if (isStandalone && typeof gtag === 'function') {
+          gtag('event', 'pwa_standalone_open', {
+            app_name: 'Flower Mate'
+          });
+        }
+      });
+    </script>
+
+  <base href="/apps/floramate/">
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
