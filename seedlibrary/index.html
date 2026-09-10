@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Seed card</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f5f0;
+      padding: 24px;
+    }
+
+    .card {
+      max-width: 420px;
+      margin: auto;
+      background: white;
+      padding: 24px;
+      border-radius: 20px;
+      box-shadow: 0 4px 20px rgba(0,0,0,.08);
+    }
+
+    h1 {
+      margin-bottom: 4px;
+    }
+
+    .latin {
+      font-style: italic;
+      color: #666;
+      margin-bottom: 24px;
+    }
+
+    .row {
+      margin: 12px 0;
+    }
+
+    button {
+      margin-top: 20px;
+      width: 100%;
+      padding: 14px;
+      border: 0;
+      border-radius: 12px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="card">
+  <h1 id="variety"></h1>
+  <div class="latin" id="plant"></div>
+
+  <div class="row">🌱 Indoor sowing: <strong id="sowIndoor"></strong></div>
+  <div class="row">🌿 Outdoor sowing: <strong id="sowOutdoor"></strong></div>
+  <div class="row">☀️ Sun: <strong id="sun"></strong></div>
+  <div class="row">📏 Spacing: <strong id="spacing"></strong> cm</div>
+  <div class="row">🌡 Germination: <strong id="temp"></strong> °C</div>
+  <div class="row">⏱ Germination time: <strong id="days"></strong> days</div>
+  <div class="row">🫘 Harvest year: <strong id="year"></strong></div>
+
+  <button id="addButton">
+    Add to SeedMate
+  </button>
+</div>
+
+<script>
+  const params = new URLSearchParams(window.location.search);
+
+  document.getElementById('plant').textContent =
+      params.get('p') ?? '';
+
+  document.getElementById('variety').textContent =
+      params.get('n') ?? '';
+
+  document.getElementById('year').textContent =
+      params.get('y') ?? '';
+
+  document.getElementById('sowIndoor').textContent =
+      params.get('si') ?? '';
+
+  document.getElementById('sowOutdoor').textContent =
+      params.get('so') ?? '';
+
+  document.getElementById('sun').textContent =
+      params.get('su') ?? '';
+
+  document.getElementById('spacing').textContent =
+      params.get('sp') ?? '';
+
+  document.getElementById('temp').textContent =
+      params.get('gt') ?? '';
+
+  document.getElementById('days').textContent =
+      params.get('gd') ?? '';
+
+  document.getElementById('addButton').onclick = () => {
+    const query = window.location.search;
+    window.location.href = 'seedmate://import' + query;
+  };
+</script>
+
+</body>
+</html>
