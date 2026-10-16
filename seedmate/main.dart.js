@@ -29897,7 +29897,7 @@ s=2
 return A.C(A.aLX(q),$async$aa8)
 case 2:p=t.z
 s=3
-return A.C(q.pU("settings",p),$async$aa8)
+return A.C(q.pU("seedMate_settings",p),$async$aa8)
 case 3:o=A.cm(t.PG.a(q.jr("settings",!1,p)).fR(0,"languageCode"))
 q=o!=null?new A.da(o,null,null):null
 if($.a1==null)A.aw3()
@@ -103347,7 +103347,7 @@ r.d=s},
 qC(){var s=0,r=A.I(t.H)
 var $async$qC=A.J(function(a,b){if(a===1)return A.F(b,r)
 for(;;)switch(s){case 0:s=2
-return A.C($.hu().pU("settings",t.z),$async$qC)
+return A.C($.hu().pU("seedMate_settings",t.z),$async$qC)
 case 2:s=3
 return A.C(new A.vQ().hO(),$async$qC)
 case 3:s=4
@@ -103360,7 +103360,7 @@ BH(a){return this.anF(a)},
 anF(a){var s=0,r=A.I(t.H),q,p
 var $async$BH=A.J(function(b,c){if(b===1)return A.F(c,r)
 for(;;)switch(s){case 0:q=t.z
-p=t.PG.a($.hu().jr("settings",!1,q))
+p=t.PG.a($.hu().jr("seedMate_settings",!1,q))
 s=2
 return A.C(p.F5(A.aH(["languageCode",a],q,p.$ti.c)),$async$BH)
 case 2:return A.G(null,r)}})
@@ -104795,17 +104795,17 @@ A.tD.prototype={
 hO(){var s=0,r=A.I(t.H)
 var $async$hO=A.J(function(a,b){if(a===1)return A.F(b,r)
 for(;;)switch(s){case 0:s=2
-return A.C($.hu().pU("shoppingList",t.z),$async$hO)
+return A.C($.hu().pU("seedMate_shoppingList",t.z),$async$hO)
 case 2:return A.G(null,r)}})
 return A.H($async$hO,r)},
-zu(){var s=J.jJ(t.j.a(t.PG.a($.hu().jr("shoppingList",!1,t.z)).zm(0,"items",[])),new A.asQ(),t.W4)
+zu(){var s=J.jJ(t.j.a(t.PG.a($.hu().jr("seedMate_shoppingList",!1,t.z)).zm(0,"items",[])),new A.asQ(),t.W4)
 s=A.a2(s,s.$ti.h("aI.E"))
 return s},
 tP(a){return this.anE(a)},
 anE(a){var s=0,r=A.I(t.H),q,p,o
 var $async$tP=A.J(function(b,c){if(b===1)return A.F(c,r)
 for(;;)switch(s){case 0:q=t.z
-p=t.PG.a($.hu().jr("shoppingList",!1,q))
+p=t.PG.a($.hu().jr("seedMate_shoppingList",!1,q))
 o=A.a_(a).h("af<1,bc<n,O>>")
 o=A.a2(new A.af(a,new A.asO(),o),o.h("aI.E"))
 s=2
@@ -104859,10 +104859,10 @@ A.lq.prototype={
 hO(){var s=0,r=A.I(t.H),q
 var $async$hO=A.J(function(a,b){if(a===1)return A.F(b,r)
 for(;;)switch(s){case 0:q=$.hu()
-s=!q.b.aK(0,"userPlants".toLowerCase())?2:3
+s=!q.b.aK(0,"seedMate_userPlants".toLowerCase())?2:3
 break
 case 2:s=4
-return A.C(q.pU("userPlants",t.z),$async$hO)
+return A.C(q.pU("seedMate_userPlants",t.z),$async$hO)
 case 4:case 3:return A.G(null,r)}})
 return A.H($async$hO,r)},
 zC(a){return this.a4u(a)},
@@ -104874,7 +104874,7 @@ if(h==null)h=i
 q=a.c
 if(q==null)q=i
 p=t.z
-o=t.PG.a($.hu().jr("userPlants",!1,p))
+o=t.PG.a($.hu().jr("seedMate_userPlants",!1,p))
 n=a.a
 m=h.Ft()
 l=q.Ft()
@@ -104886,7 +104886,7 @@ s=2
 return A.C(o.F5(A.aH([n,A.aH(["id",n,"createdAt",m,"updatedAt",l,"expiredAt",k,"name",a.e,"plantTypeId",a.f,"imagePaths",a.r,"imageTakenAt",j,"previewImageIndex",a.x,"directSowing",a.y,"seedStarting",a.z,"packetStatus",a.Q,"source",a.as,"variety",a.at,"notes",a.ax],t.N,t.X)],p,o.$ti.c)),$async$zC)
 case 2:return A.G(null,r)}})
 return A.H($async$zC,r)},
-FR(){var s=t.PG.a($.hu().jr("userPlants",!1,t.z))
+FR(){var s=t.PG.a($.hu().jr("seedMate_userPlants",!1,t.z))
 if(!s.f)A.U(A.h9("Box has already been closed."))
 s=s.e
 s===$&&A.a()
@@ -104898,7 +104898,7 @@ Dj(a){return this.au0(a)},
 au0(a){var s=0,r=A.I(t.H)
 var $async$Dj=A.J(function(b,c){if(b===1)return A.F(c,r)
 for(;;)switch(s){case 0:s=2
-return A.C(t.PG.a($.hu().jr("userPlants",!1,t.z)).atY([a]),$async$Dj)
+return A.C(t.PG.a($.hu().jr("seedMate_userPlants",!1,t.z)).atY([a]),$async$Dj)
 case 2:return A.G(null,r)}})
 return A.H($async$Dj,r)}}
 A.avD.prototype={
