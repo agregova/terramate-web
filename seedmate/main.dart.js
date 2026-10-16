@@ -29898,7 +29898,7 @@ return A.C(A.aLX(q),$async$aa8)
 case 2:p=t.z
 s=3
 return A.C(q.pU("seedMate_settings",p),$async$aa8)
-case 3:o=A.cm(t.PG.a(q.jr("settings",!1,p)).fR(0,"languageCode"))
+case 3:o=A.cm(t.PG.a(q.jr("seedMate_settings",!1,p)).fR(0,"languageCode"))
 q=o!=null?new A.da(o,null,null):null
 if($.a1==null)A.aw3()
 p=$.a1
@@ -103379,7 +103379,7 @@ wM(){var s=0,r=A.I(t.H),q,p=this,o,n,m
 var $async$wM=A.J(function(a,b){if(a===1)return A.F(b,r)
 for(;;)switch(s){case 0:n=new A.lq().FR()
 m=t.z
-s=!J.d(t.PG.a($.hu().jr("settings",!1,m)).zm(0,"isPremium",!1),!0)&&n.length>=20?3:4
+s=!J.d(t.PG.a($.hu().jr("seedMate_settings",!1,m)).zm(0,"isPremium",!1),!0)&&n.length>=20?3:4
 break
 case 3:o=p.c
 if(o==null){s=1
@@ -104763,10 +104763,10 @@ A.vQ.prototype={
 hO(){var s=0,r=A.I(t.H)
 var $async$hO=A.J(function(a,b){if(a===1)return A.F(b,r)
 for(;;)switch(s){case 0:s=2
-return A.C($.hu().pU("favorites",t.z),$async$hO)
+return A.C($.hu().pU("seedMate_favorites",t.z),$async$hO)
 case 2:return A.G(null,r)}})
 return A.H($async$hO,r)},
-rV(){return A.fN(t.PG.a($.hu().jr("favorites",!1,t.z)).zm(0,"plantIds",A.b([],t.s)),!0,t.N)},
+rV(){return A.fN(t.PG.a($.hu().jr("seedMate_favorites",!1,t.z)).zm(0,"plantIds",A.b([],t.s)),!0,t.N)},
 zc(a){return this.aBt(a)},
 aBt(a){var s=0,r=A.I(t.H),q=this,p,o,n
 var $async$zc=A.J(function(b,c){if(b===1)return A.F(c,r)
@@ -104774,7 +104774,7 @@ for(;;)switch(s){case 0:n=q.rV()
 if(B.b.n(n,a))B.b.H(n,a)
 else n.push(a)
 p=t.z
-o=t.PG.a($.hu().jr("favorites",!1,p))
+o=t.PG.a($.hu().jr("seedMate_favorites",!1,p))
 s=2
 return A.C(o.F5(A.aH(["plantIds",n],p,o.$ti.c)),$async$zc)
 case 2:return A.G(null,r)}})
