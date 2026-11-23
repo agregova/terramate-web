@@ -140,16 +140,18 @@
         row.hidden = false;
       }
     }
-
+    
     function formatSowing(value, months) {
       if (value === '1') {
-        return months || 'Áno';
+        return months
+          ? months.split(',').map(m => m.trim()).join(', ')
+          : 'Áno';
       }
-
+    
       if (value === '0') {
         return 'Nie';
       }
-
+    
       return '';
     }
 
