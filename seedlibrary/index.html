@@ -1,106 +1,184 @@
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="sk">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Seed card</title>
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+  <title>Seed Mate – Karta semienok</title>
 
   <style>
+    * {
+      box-sizing: border-box;
+    }
+
     body {
       font-family: Arial, sans-serif;
-      background: #f5f5f0;
-      padding: 24px;
+      background: #f7f5ef;
+      margin: 0;
+      padding: 24px 16px;
+      color: #30352b;
     }
 
     .card {
       max-width: 420px;
       margin: auto;
       background: white;
-      padding: 24px;
+      padding: 28px 24px;
       border-radius: 20px;
-      box-shadow: 0 4px 20px rgba(0,0,0,.08);
+      box-shadow: 0 4px 20px rgba(0,0,0,.06);
     }
 
     h1 {
-      margin-bottom: 4px;
+      margin: 0 0 6px;
+      font-size: 28px;
+      overflow-wrap: anywhere;
     }
 
-    .latin {
-      font-style: italic;
-      color: #666;
+    .variety {
+      color: #777;
+      font-size: 16px;
       margin-bottom: 24px;
+      overflow-wrap: anywhere;
     }
 
     .row {
-      margin: 12px 0;
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      padding: 12px 0;
+      border-bottom: 1px solid #eeece6;
+    }
+
+    .row[hidden] {
+      display: none;
+    }
+
+    .label {
+      font-weight: 600;
+    }
+
+    .value {
+      text-align: right;
+      overflow-wrap: anywhere;
     }
 
     button {
-      margin-top: 20px;
+      margin-top: 28px;
       width: 100%;
-      padding: 14px;
+      padding: 15px;
       border: 0;
       border-radius: 12px;
+      background: #566c4a;
+      color: white;
       font-size: 16px;
+      font-weight: 600;
       cursor: pointer;
+    }
+
+    button:hover {
+      background: #455a3b;
+    }
+
+    .footer {
+      text-align: center;
+      color: #888;
+      font-size: 12px;
+      margin-top: 20px;
     }
   </style>
 </head>
 
 <body>
 
-<div class="card">
-  <h1 id="variety"></h1>
-  <div class="latin" id="plant"></div>
+  <div class="card">
+    <h1 id="plant"></h1>
+    <div class="variety" id="variety"></div>
 
-  <div class="row">🌱 Indoor sowing: <strong id="sowIndoor"></strong></div>
-  <div class="row">🌿 Outdoor sowing: <strong id="sowOutdoor"></strong></div>
-  <div class="row">☀️ Sun: <strong id="sun"></strong></div>
-  <div class="row">📏 Spacing: <strong id="spacing"></strong> cm</div>
-  <div class="row">🌡 Germination: <strong id="temp"></strong> °C</div>
-  <div class="row">⏱ Germination time: <strong id="days"></strong> days</div>
-  <div class="row">🫘 Harvest year: <strong id="year"></strong></div>
+    <div class="row" id="yearRow" hidden>
+      <span class="label">🌾 Rok zberu</span>
+      <span class="value" id="year"></span>
+    </div>
 
-  <button id="addButton">
-    Add to SeedMate
-  </button>
-</div>
+    <div class="row" id="sourceRow" hidden>
+      <span class="label">🌱 Pôvod</span>
+      <span class="value" id="source"></span>
+    </div>
 
-<script>
-  const params = new URLSearchParams(window.location.search);
+    <div class="row" id="directRow" hidden>
+      <span class="label">🌿 Priamy výsev</span>
+      <span class="value" id="direct"></span>
+    </div>
 
-  document.getElementById('plant').textContent =
-      params.get('p') ?? '';
+    <div class="row" id="startingRow" hidden>
+      <span class="label">🪴 Predpestovanie</span>
+      <span class="value" id="starting"></span>
+    </div>
 
-  document.getElementById('variety').textContent =
-      params.get('n') ?? '';
+    <button id="addButton">
+      Pridať do Seed Mate
+    </button>
 
-  document.getElementById('year').textContent =
-      params.get('y') ?? '';
+    <div class="footer">
+      Seed Mate · TerraMate
+    </div>
+  </div>
 
-  document.getElementById('sowIndoor').textContent =
-      params.get('si') ?? '';
+  <script>
+    const params = new URLSearchParams(window.location.search);
 
-  document.getElementById('sowOutdoor').textContent =
-      params.get('so') ?? '';
+    function getValue(key) {
+      return (params.get(key) ?? '').trim();
+    }
 
-  document.getElementById('sun').textContent =
-      params.get('su') ?? '';
+    function showField(rowId, valueId, value) {
+      const row = document.getElementById(rowId);
+      const element = document.getElementById(valueId);
 
-  document.getElementById('spacing').textContent =
-      params.get('sp') ?? '';
+      if (value) {
+        element.textContent = value;
+        row.hidden = false;
+      }
+    }
 
-  document.getElementById('temp').textContent =
-      params.get('gt') ?? '';
+    function formatSowing(value, months) {
+      if (value === '1') {
+        return months || 'Áno';
+      }
 
-  document.getElementById('days').textContent =
-      params.get('gd') ?? '';
+      if (value === '0') {
+        return 'Nie';
+      }
 
-  document.getElementById('addButton').onclick = () => {
-    const query = window.location.search;
-    window.location.href = 'seedmate://import' + query;
-  };
-</script>
+      return '';
+    }
+
+    const plant = getValue('p');
+    const variety = getValue('n');
+
+    document.getElementById('plant').textContent = plant;
+    document.getElementById('variety').textContent = variety;
+
+    showField('yearRow', 'year', getValue('y'));
+    showField('sourceRow', 'source', getValue('src'));
+
+    showField(
+      'directRow',
+      'direct',
+      formatSowing(getValue('ds'), getValue('dm'))
+    );
+
+    showField(
+      'startingRow',
+      'starting',
+      formatSowing(getValue('ss'), getValue('sm'))
+    );
+
+    document.getElementById('addButton').onclick = () => {
+      window.location.href =
+        'seedmate://import' + window.location.search;
+    };
+  </script>
 
 </body>
 </html>
