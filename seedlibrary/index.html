@@ -141,11 +141,26 @@
       }
     }
     
+    
+    function formatMonths(months) {
+      if (!months) return '';
+    
+      const monthNames = [
+        'Jan', 'Feb', 'Mar', 'Apr', 'Máj', 'Jún',
+        'Júl', 'Aug', 'Sep', 'Okt', 'Nov', 'Dec'
+      ];
+    
+      return months
+        .split(',')
+        .map(m => Number(m.trim()))
+        .filter(m => Number.isInteger(m) && m >= 1 && m <= 12)
+        .map(m => monthNames[m - 1])
+        .join(', ');
+    }
+    
     function formatSowing(value, months) {
       if (value === '1') {
-        return months
-          ? months.split(',').map(m => m.trim()).join(', ')
-          : 'Áno';
+        return formatMonths(months) || 'Áno';
       }
     
       if (value === '0') {
@@ -154,6 +169,7 @@
     
       return '';
     }
+
 
     const plant = getValue('p');
     const variety = getValue('n');
